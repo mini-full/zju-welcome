@@ -15,10 +15,16 @@ theme:
     - navigation.path
     - navigation.top
 
+    - search.highlight
+    - search.share
+    - search.suggest
+
 
 plugins:
   - search:
-      lang: zh
+      lang:
+        - zh
+        - en
 
 
 nav:
