@@ -4,4 +4,4 @@ This site is still under construction and is expected to be completed before Aug
 
 ## Contributions
 
-If you are interested in this project, you can submit PRs to the repo, or contact @minifull on CC98.
+If you are interested in this project, you can submit PRs to the [repo](https://github.com/mini-full/zju-welcome), or contact @minifull on [CC98](https://cc98.org).
