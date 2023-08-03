@@ -29,7 +29,7 @@ theme:
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
-      # primary: custom
+      primary: custom
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
