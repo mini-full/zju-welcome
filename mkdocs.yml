@@ -1,8 +1,17 @@
 site_name: 浙江大学本科新生指引
 site_author: mini-full
 site_description: 浙江大学本科生新生指引为浙江大学CC98论坛新生宝典版面编撰的新生入学指南。
+repo_name: zju-welcome
+repo_url: https://github.com/mini-full/zju-welcome/
 
 copyright: Copyright &copy; 2023-present <a href="https://github.com/mini-full" target="_blank" rel="noopener noreferrer">minifull</a>
+
+
+nav:
+  - 前言: "preface.md"
+  - 作者声明: "statement2022.md"
+  - 导语: "intro.md"
+
 
 theme:
   name: material
@@ -14,6 +23,7 @@ theme:
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
+      primary: custom
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -21,6 +31,7 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+      primary: custom
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -30,7 +41,6 @@ theme:
         name: Switch to system preference
       primary: custom
 
-  
   features:
     - navigation.instant
     - navigation.tracking
@@ -48,12 +58,6 @@ plugins:
       lang:
         - zh
         - en
-
-
-nav:
-  - 前言: "preface.md"
-  - 作者声明: "statement2022.md"
-  - 导语: "intro.md"
 
 
 extra_css:
