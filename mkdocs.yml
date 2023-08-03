@@ -5,7 +5,7 @@ site_description: 浙江大学本科生新生指引为浙江大学CC98论坛新�
 theme:
   name: material
   language: zh
-  logo: assets/校徽.png
+  logo: assets/校徽_白.png
   palette:
     primary: custom
 
