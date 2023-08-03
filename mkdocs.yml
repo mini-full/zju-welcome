@@ -16,6 +16,8 @@ nav:
     - 校园地图: "basics/school_map.md"
     - 浙大文化:
       - 精神内核: "basics/school_spirits.md"
+      - 竺老两问: "basics/2questions.md"
+      - 浙大简史: "basics/history.md"
 
 
 theme:
