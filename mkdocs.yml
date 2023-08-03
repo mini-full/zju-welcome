@@ -12,11 +12,11 @@ nav:
   - 作者声明: "statement2022.md"
   - 导语: "intro.md"
   - 基础知识:
-    # - 基本校情: "basic_facts.md"
-    - 浙大校历: "school_calendar.md"
-    - 校园地图: "school_map.md"
-  - 浙大文化:
-    -精神内核: "school_spirits.md"
+    - 基本校情: 
+      - 浙大校历: "basics/school_calendar.md"
+      - 校园地图: "basics/school_map.md"
+    - 浙大文化:
+      -精神内核: "basics/school_spirits.md"
 
 
 theme:
