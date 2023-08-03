@@ -29,7 +29,7 @@ theme:
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
-      primary: custom
+      # primary: custom
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -45,7 +45,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
-      primary: custom
+      # primary: custom
 
   features:
     - navigation.instant
@@ -74,3 +74,4 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/mini-full/zju-welcome/tree/gh-pages
+    # - icon: ../assets/cc98.png
