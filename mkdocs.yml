@@ -8,9 +8,15 @@ theme:
   logo: assets/校徽_白.png
   palette:
     primary: custom
+  
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.path
+    - navigation.top
 
 nav:
-  - 前言: "前言.md"
+  - 前言: "preface.md"
 
 extra_css:
   - stylesheets/extra.css
