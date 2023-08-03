@@ -53,6 +53,7 @@ plugins:
 nav:
   - 前言: "preface.md"
   - 作者声明: "statement2022.md"
+  - 导语: "intro.md"
 
 
 extra_css:
