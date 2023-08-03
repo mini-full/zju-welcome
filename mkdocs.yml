@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: 浙江大学新生指南
+site_author: mini-full
+
+theme:
+  name: material
