@@ -1,5 +1,6 @@
 # zju-welcome
-Brief guides for ZJU freshmen. Under construction.
+
+Brief guides for ZJU freshmen. The page is currently under construction.
 
 <!-- ## Star History
 
