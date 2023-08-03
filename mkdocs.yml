@@ -1,4 +1,4 @@
-site_name: 浙江大学新生指引
+site_name: 浙江大学本科新生指引
 site_author: mini-full
 site_description: 浙江大学本科生新生指引为浙江大学CC98论坛新生宝典版面编撰的新生入学指南。
 
@@ -36,6 +36,7 @@ theme:
     - navigation.tracking
     - navigation.path
     - navigation.top
+    - navigation.footer
 
     - search.highlight
     - search.share
@@ -55,3 +56,9 @@ nav:
 
 extra_css:
   - stylesheets/extra.css
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/mini-full/zju-welcome/tree/gh-pages
