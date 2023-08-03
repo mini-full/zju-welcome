@@ -2,7 +2,7 @@ site_name: 浙江大学新生指引
 site_author: mini-full
 site_description: 浙江大学本科生新生指引为浙江大学CC98论坛新生宝典版面编撰的新生入学指南。
 
-copyright: Copyright &copy; 2023-present <a href="https://github.com/mini-full"
+copyright: Copyright &copy; 2023-present <a href="https://github.com/mini-full" target="_blank" rel="noopener noreferrer">minifull</a>
 
 theme:
   name: material
