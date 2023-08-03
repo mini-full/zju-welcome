@@ -15,8 +15,15 @@ theme:
     - navigation.path
     - navigation.top
 
+
+plugins:
+  - search:
+      lang: zh
+
+
 nav:
   - 前言: "preface.md"
+
 
 extra_css:
   - stylesheets/extra.css
