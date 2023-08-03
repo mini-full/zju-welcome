@@ -53,5 +53,5 @@ nav:
   - 前言: "preface.md"
 
 
-# extra_css:
-#   - stylesheets/extra.css
+extra_css:
+  - stylesheets/extra.css
