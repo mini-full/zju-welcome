@@ -21,7 +21,7 @@ nav:
       - 浙大校歌: "basics/school_song.md"
     - 校区院系:
       - 浙大校区: "basics/campuses.md"
-
+      - 学部院系: "basics/colleges.md"
 
 
 theme:
