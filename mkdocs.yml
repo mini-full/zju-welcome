@@ -19,6 +19,9 @@ nav:
       - 竺老两问: "basics/2questions.md"
       - 浙大简史: "basics/history.md"
       - 浙大校歌: "basics/school_song.md"
+    - 校区院系:
+      - 浙大校区: "basics/campuses.md"
+
 
 
 theme:
