@@ -25,6 +25,7 @@ nav:
     - 信息平台:
       - 常用电话: "basics/contact.md"
       - 常用网站: "basics/websites.md"
+      - 公众号: "basics/channels.md"
     - 特色黑话: "basics/slang.md"
 
 
@@ -62,6 +63,7 @@ theme:
     - navigation.path
     - navigation.top
     - navigation.footer
+    - navigation.expand
 
     - search.highlight
     - search.share
