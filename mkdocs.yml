@@ -33,6 +33,7 @@ theme:
   name: material
   language: zh
   logo: assets/校徽_白.png
+  custom_dir: overrides
   palette:
     # # Palette toggle for automatic mode
     # - media: "(prefers-color-scheme)"
