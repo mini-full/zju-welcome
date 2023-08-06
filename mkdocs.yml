@@ -78,11 +78,11 @@ plugins:
       lang:
         - zh
         - en
-  - git-revision-date-localized:
-      type: date
-      fallback_to_build_date: false
-      enable_creation_date: true
-      enabled: true
+  # - git-revision-date-localized:
+  #     type: date
+  #     fallback_to_build_date: false
+  #     enable_creation_date: true
+  #     enabled: true
   # - offline:
   #     enabled: true
 
