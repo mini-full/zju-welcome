@@ -22,6 +22,9 @@ nav:
     - 校区院系:
       - 浙大校区: "basics/campuses.md"
       - 学部院系: "basics/colleges.md"
+    - 信息平台:
+      - 常用电话: "basics/contact.md"
+      - 常用网站: "basics/websites.md"
     - 特色黑话: "basics/slang.md"
 
 
