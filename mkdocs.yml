@@ -10,6 +10,7 @@ copyright: Copyright &copy; 2023-present <a href="https://github.com/mini-full" 
 nav:
   - 前言: "preface.md"
   - 作者声明: "statement2022.md"
+  - 重要提示: "callout.md"
   - 导语: "intro.md"
   - 常用信息:
     - 浙大校历: "basics/school_calendar.md"
