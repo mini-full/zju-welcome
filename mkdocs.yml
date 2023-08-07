@@ -83,6 +83,7 @@ plugins:
       lang:
         - zh
         - en
+      separator: '[\s\u200b\-]'
   # - git-revision-date-localized:
   #     type: date
   #     fallback_to_build_date: false
