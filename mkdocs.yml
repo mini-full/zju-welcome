@@ -39,6 +39,8 @@ nav:
     - 组织架构: "military_training/structure.md"
     - 军训活动: "military_training/activities.md"
     - 入党专题: "military_training/party.md"
+    - 其他事项: "military_training/others.md"
+    - 温馨提醒: "military_training/reminder.md"
 
 
 theme:
