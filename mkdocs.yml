@@ -75,7 +75,7 @@ theme:
     - navigation.path
     - navigation.top
     - navigation.footer
-    - navigation.expand
+    # - navigation.expand
 
     - search.highlight
     - search.share
