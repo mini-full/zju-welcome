@@ -41,7 +41,8 @@ nav:
     - 入党专题: "military_training/party.md"
     - 其他事项: "military_training/others.md"
     - 温馨提醒: "military_training/reminder.md"
-
+  - 学习:
+    - 基本概念: "learning/concepts.md"
 
 theme:
   name: material
