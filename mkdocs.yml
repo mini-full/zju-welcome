@@ -34,6 +34,8 @@ nav:
     - 报到流程: "registration/procedure.md"
     - 始业教育: "registration/initial_edu.md"
     - 新生防骗: "registration/secure.md"
+  - 军训:
+    - 作息时间: "military_training/time.md"
 
 
 theme:
