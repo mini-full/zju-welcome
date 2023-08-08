@@ -36,6 +36,7 @@ nav:
     - 新生防骗: "registration/secure.md"
   - 军训:
     - 作息时间: "military_training/time.md"
+    - 组织架构: "military_training/structure.md"
 
 
 theme:
