@@ -43,6 +43,8 @@ nav:
     - 温馨提醒: "military_training/reminder.md"
   - 学习:
     - 基本概念: "learning/concepts.md"
+    - 培养方案: "learning/program.md"
+    - 课程考核: "learning/eval.md"
 
 theme:
   name: material
