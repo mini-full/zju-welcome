@@ -47,6 +47,8 @@ nav:
     - 课程考核: "learning/eval.md"
     - 专业分流: "learning/declaring_major.md"
     - 转专业: "learning/major_transfer.md"
+  - 特色项目:
+    - 特殊课程: "learning/special_course.md"
 
 theme:
   name: material
