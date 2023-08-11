@@ -55,6 +55,7 @@ nav:
   - 教务系统:
     - 选课通知: "course_sys/enroll.md"
     - 选课规则: "course_sys/rules.md"
+    - 概念解释: "course_sys/concepts.md"
 
 theme:
   name: material
