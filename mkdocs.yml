@@ -49,6 +49,7 @@ nav:
     - 转专业: "learning/major_transfer.md"
   - 特色项目:
     - 特殊课程: "learning/special_course.md"
+    - 训练计划: "learning/training_program.md"
 
 theme:
   name: material
