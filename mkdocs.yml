@@ -58,6 +58,12 @@ nav:
     - 概念解释: "course_sys/concepts.md"
     - 选课操作: "course_sys/operation.md"
     - 选课技巧: "course_sys/tricks.md"
+  - 生活:
+    - 校园区域: "life/campus.md"
+
+  - 完稿小记（2022）: "postscript2022.md"
+  - 后记: "postscript.md"
+  
 
 theme:
   name: material
