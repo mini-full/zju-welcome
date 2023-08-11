@@ -54,6 +54,7 @@ nav:
     - 竺院选拔: "learning/intoCKC.md"
   - 教务系统:
     - 选课通知: "course_sys/enroll.md"
+    - 选课规则: "course_sys/rules.md"
 
 theme:
   name: material
