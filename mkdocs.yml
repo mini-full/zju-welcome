@@ -52,6 +52,8 @@ nav:
     - 训练计划: "learning/training_program.md"
     - 学科竞赛: "learning/competitions.md"
     - 竺院选拔: "learning/intoCKC.md"
+  - 教务系统:
+    - 选课通知: "course_sys/enroll.md"
 
 theme:
   name: material
