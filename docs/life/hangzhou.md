@@ -2,7 +2,7 @@
 
 ## 校园周边
 
-![Alt text](../assets/around.png)
+![Alt text](../assets/around.webp)
 
 ### 北街（泰和路）
 
@@ -25,7 +25,7 @@
 
 ## 杭州景点
 
-![Alt text](../assets/sites.png)
+![Alt text](../assets/sites.webp)
 
 ### 杭州西湖
 
