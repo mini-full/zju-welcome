@@ -2,7 +2,7 @@
 
 ## 生活园区
 
-![campus1](../assets/campus1.png)
+![campus1](../assets/campus1.webp)
 
 上图标注点为浙江大学生活园区主要地标。
 
@@ -22,7 +22,7 @@
 
 ## 体育运动区
 
-![Alt text](../assets/campus2.png)
+![Alt text](../assets/campus2.webp)
 
 上图标注点为浙江大学体育运动区域主要地标。
 |标号|地点|介绍|
@@ -40,7 +40,7 @@
 
 ## 教学实验区
 
-![Alt text](../assets/campus3.png)
+![Alt text](../assets/campus3.webp)
 
 上图标注点为浙江大学教学区域主要地标。
 
@@ -62,7 +62,7 @@
 
 ## 学科组团与办公区
 
-![Alt text](../assets/campus4.png)
+![Alt text](../assets/campus4.webp)
 
 上图标注点为浙江大学学科组团与办公区主要地标。
 
@@ -90,7 +90,7 @@
 
 ## 自然景观与地标建筑
 
-![Alt text](../assets/campus5.png)
+![Alt text](../assets/campus5.webp)
 
 上图标注点为浙江大学主要自然景观与地标建筑。
 
