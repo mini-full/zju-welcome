@@ -50,5 +50,5 @@
 |[浙江大学计财处](http://cwcx.zju.edu.cn/WFManager/login.jsp)              |   个人奖补勤酬和报销等财务信息查询|
 |[浙江大学收费平台](http://pay.zju.edu.cn/payment/login.jsp)       |        学费及其他相关费用缴纳|
 |[云访浙大](https://720yun.com/t/84vksqfez2y?scene_id=48324019)              |         720°VR校园全景|
-|[ZJUers轻首页](https://zjuers.com/) | 可以用来做浏览器首页 |
+|[zjuers轻首页](https://zjuers.com/) | 可以用来做浏览器首页 |
 
