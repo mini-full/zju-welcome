@@ -4,7 +4,7 @@
 
 ## 入党流程
 
-![party](../assets/party.png)
+![party](../assets/party.webp)
 
 从递交入党申请书至成为中国共产党正式党员，共须经历25个流程，具体见下图，亦可参看参考资料。
 
