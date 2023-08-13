@@ -1,0 +1,139 @@
+site_name: 浙江大学本科新生指引
+site_author: mini-full
+site_description: 浙江大学本科生新生指引为浙江大学CC98论坛新生宝典版面编撰的新生入学指南。
+repo_name: zju-welcome
+repo_url: https://github.com/mini-full/zju-welcome/
+
+copyright: Copyright &copy; 2023-present <a href="https://github.com/mini-full" target="_blank" rel="noopener noreferrer">minifull</a>
+
+
+nav:
+  - 前言: "preface.md"
+  - 作者声明: "statement2022.md"
+  - 重要提示: "callout.md"
+  - 导语: "intro.md"
+  - 常用信息:
+    - 浙大校历: "basics/school_calendar.md"
+    - 校园地图: "basics/school_map.md"
+    - 浙大文化:
+      - 精神内核: "basics/school_spirits.md"
+      - 竺老两问: "basics/2questions.md"
+      - 浙大简史: "basics/history.md"
+      - 浙大校歌: "basics/school_song.md"
+    - 校区院系:
+      - 浙大校区: "basics/campuses.md"
+      - 学部院系: "basics/colleges.md"
+    - 信息平台:
+      - 常用电话: "basics/contact.md"
+      - 常用网站: "basics/websites.md"
+      - 公众号和小程序: "basics/channels.md"
+    - 特色黑话: "basics/slang.md"
+  - 入学:
+    - 注册缴费: "registration/fee.md"
+    - 物品准备: "registration/items_to_take.md"
+    - 入校交通: "registration/transportation.md"
+    - 报到流程: "registration/procedure.md"
+    - 始业教育: "registration/initial_edu.md"
+    - 新生防骗: "registration/secure.md"
+  - 军训:
+    - 作息时间: "military_training/time.md"
+    - 组织架构: "military_training/structure.md"
+    - 军训活动: "military_training/activities.md"
+    - 入党专题: "military_training/party.md"
+    - 其他事项: "military_training/others.md"
+    - 温馨提醒: "military_training/reminder.md"
+  - 学习:
+    - 基本概念: "learning/concepts.md"
+    - 培养方案: "learning/program.md"
+    - 课程考核: "learning/eval.md"
+    - 专业分流: "learning/declaring_major.md"
+    - 转专业: "learning/major_transfer.md"
+    - 特殊课程: "learning/special_course.md"
+    - 训练计划: "learning/training_program.md"
+    - 学科竞赛: "learning/competitions.md"
+    - 竺院选拔: "learning/intoCKC.md"
+  - 教务系统:
+    - 选课通知: "course_sys/enroll.md"
+    - 选课规则: "course_sys/rules.md"
+    - 概念解释: "course_sys/concepts.md"
+    - 选课操作: "course_sys/operation.md"
+    - 选课技巧: "course_sys/tricks.md"
+  - 生活:
+    - 校园区域: "life/campus.md"
+    - 寝室园区: "life/dorm.md"
+    - 收寄服务: "life/post.md"
+    - 饮食消费: "life/canteen.md"
+    - 课外活动: "life/extracurricular.md"
+    - 杭城掠影: "life/hangzhou.md"
+
+  - 完稿小记: "postscript2022.md"
+  - 后记: "postscript.md"
+  
+
+theme:
+  name: material
+  language: zh
+  logo: assets/校徽_白.png
+  custom_dir: overrides
+  palette:
+    # # Palette toggle for automatic mode
+    # - media: "(prefers-color-scheme)"
+    #   toggle:
+    #     icon: material/brightness-auto
+    #     name: Switch to light mode
+    #   primary: custom
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.path
+    - navigation.top
+    - navigation.footer
+    # - navigation.expand
+
+    - search.highlight
+    - search.share
+    - search.suggest
+
+
+plugins:
+  - search:
+      lang:
+        - zh
+        - en
+        - ja
+      separator: '[\s\u200b\-]'
+  # - git-revision-date-localized:
+  #     type: date
+  #     fallback_to_build_date: false
+  #     enable_creation_date: true
+  #     enabled: true
+  # - offline:
+  #     enabled: true
+
+
+extra_css:
+  - stylesheets/extra.css
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/mini-full/zju-welcome/tree/gh-pages
+    # - icon: ../assets/cc98.png
