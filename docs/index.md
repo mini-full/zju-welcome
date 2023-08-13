@@ -25,6 +25,6 @@
 
 **目前你看到的是正在建设的站点，可能会有很多错误，仅供参考。**
 
-## Contributions
+## Contact
 
-If you are interested in this project, you can submit PRs to the [repo](https://github.com/mini-full/zju-welcome), or contact @minifull on [CC98](https://cc98.org).
+如果你发现了本指引内容上的错误，或者对本指引有什么建议，欢迎在github仓库中提出issue，或者直接[邮件联系](mailto:kaixuanwang@zju.edu.cn)kaixuanwang@zju.edu.cn!
