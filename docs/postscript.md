@@ -10,11 +10,11 @@
 
 在此需要告诉各位新同学的是，大学中最重要的能力之一，是**信息搜集能力**，在以后的本科生活，乃至校园以外，应该都不太可能会有这样详细的指引可供你参考，这些信息需要你自己去通过各种方式获取。而我觉得，能坚持从头到尾看到这行字的你，信息搜集能力一定不会差的。
 
-也推荐大家读一读[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue)
+也推荐大家读一读[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/li-zhi-pian/huan-ying-lai-dao-shang-hai-jiao-tong-da-xue)。
 
 这次新生指引修订工作的完成有赖于秦子铉同学对校史部分错误的指正，CC98版主会议厅各位前辈的建议，感谢对新生指引提出过指正和建议的同学们！
 
-感谢CC98@zyz1z1前辈对网站部署的帮助！
+同时感谢CC98@zyz1z1前辈对网站部署的帮助！
 
 这里我还想重复一遍前言的话：
 
