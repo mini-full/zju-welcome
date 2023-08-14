@@ -17,6 +17,9 @@
 > 以下均为浙江大学CC98论坛用户ID
 
 **作者**： 好神奇
-**封面设计**: Holliea
-**审核**: CC98版主会议厅
-**特别鸣谢**: 2019 爱学习 boommmm 哈士奇 环己三烯 辣辣为什么叫辣辣 minifull 且寄白鹿_ 十年雪落 shio ShirleyW 徐弈之 zjuer2080
+
+**封面设计**：Holliea
+
+**审核**：CC98版主会议厅
+
+**特别鸣谢**：2019 爱学习 boommmm 哈士奇 环己三烯 辣辣为什么叫辣辣 minifull 且寄白鹿_ 十年雪落 shio ShirleyW 徐弈之 zjuer2080
