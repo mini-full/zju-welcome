@@ -123,13 +123,6 @@ plugins:
         - en
         - ja
       separator: '[\s\u200b\-]'
-  # - git-revision-date-localized:
-  #     type: date
-  #     fallback_to_build_date: false
-  #     enable_creation_date: true
-  #     enabled: true
-  # - offline:
-  #     enabled: true
 
 
 extra_css:
@@ -140,4 +133,12 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/mini-full/zju-welcome/tree/gh-pages
-    # - icon: ../assets/cc98.png
+    - icon: material/forum
+      link: https://www.cc98.org/topic/5672880
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:kaixuanwang@zju.edu.cn
+    - icon: simple/githubpages
+      link: https://mini-full.github.io/zju-welcome/
+    - icon: material/web-check
+      link: https://zjuers.com/welcome
+    
