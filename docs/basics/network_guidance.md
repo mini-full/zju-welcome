@@ -8,7 +8,7 @@
 
 ## 连接方式
 
-学校并不会为新生自动激活校园网，在获得统一身份认证之后，新生需要先访问 <https://myvpn.zju.edu.cn> 进行**激活账号**，此时也会完成浙大邮箱的激活。有10元/月、30元/月、50元/月三类套餐，越贵则上传下载速度越快。激活之后第一个月可免费上网，此后需要续费（海宁国际校区除外，学校会帮你付每月50的套餐）
+学校并不会为新生自动激活校园网，在获得统一身份认证之后，新生需要先访问[信息技术中心网站](https://myvpn.zju.edu.cn)进行**激活账号**，此时也会完成浙大邮箱的激活。有10元/月、30元/月、50元/月三类套餐，越贵则上传下载速度越快。激活之后第一个月可免费上网，此后需要续费（海宁国际校区除外，学校会帮你付每月50的套餐）
 
 ### 校内连接
 
@@ -16,8 +16,8 @@
 
 由于无需进行特殊配置，无线连接是大部分学生会选择的方式。  
 
-- 浙大所有校区都有名为 ZJUWLAN 的无线网络，连接后一般会自动弹出登录界面，若未弹出，可手动打开 <https://net.zju.edu.cn/> 进行登录（账号密码为激活网络时设置的）  
-- 部分校区的部分位置会有名为 ZJUWLAN-Secure 的无线网络，连接方式参考学校给的指引，这里不进行赘述 <https://itc.zju.edu.cn/2021/0128/c12077a2248578/page.htm>  
+- 浙大所有校区都有名为 ZJUWLAN 的无线网络，连接后一般会自动弹出登录界面，若未弹出，可手动打开[登录页面](https://net.zju.edu.cn/)进行登录（账号密码为激活网络时设置的）。
+- 部分校区的部分位置会有名为 ZJUWLAN-Secure 的无线网络，连接方式参考学校给的[指引](https://itc.zju.edu.cn/2021/0128/c12077a2248578/page.htm)，这里不进行赘述。  
 - 海宁校区没有 ZJUWLAN-Secure，但是提供了eduroam，连接方式与 ZJUWLAN-Secure 一致，唯一的不同是账号为 `学号@zju.edu.cn` 而不是 `学号`，密码一致。注意：在任何地方，只要你看到了eduroam，都可以使用浙大的账号连接网络，不局限于浙大校内。
 
 #### 有线连接
@@ -30,15 +30,15 @@
 
 ##### 通过客户端
 
-可点击 [这里](https://zuits.zju.edu.cn/2017/0622/c12077a629723/page.htm) 下载客户端并登录连接。  
+可点击 [这里](https://zuits.zju.edu.cn/2017/0622/c12077a629723/page.htm)下载客户端并登录连接。  
 
 ##### 通过L2TP (VPN)
 
-MAC、Linux以及不想使用客户端的Windows用户可以通过 L2TP 连接校园网，服务器为 `lns.zju.edu.cn`，账号密码为激活时的账号密码。由于这种方式不是较为复杂，同学们可以自行去 [cc98](https://www.cc98.org/) 搜索
+MAC、Linux以及不想使用客户端的Windows用户可以通过 L2TP 连接校园网，服务器为 `lns.zju.edu.cn`，账号密码为激活时的账号密码。由于这种方式不是较为复杂，同学们可以自行去 [cc98](https://www.cc98.org/)搜索
 
 ##### 通过路由器
 
-路由器一般通过 网页认证 或 L2TP 的方式连接校园网，但是由于路由器的种类繁多，这里不进行赘述。可自行上网搜索或去[cc98](https://www.cc98.org/) 搜索
+路由器一般通过 网页认证 或 L2TP 的方式连接校园网，但是由于路由器的种类繁多，这里不进行赘述。可自行上网搜索或去[cc98](https://www.cc98.org/)搜索
 
 ### 校外连接
 
@@ -55,11 +55,11 @@ RVPN 是浙大提供的一种 VPN 服务，可以让我们在校外连接到校�
 
 引自 <https://www.cc98.org/topic/5521873>。其中安装根证书的行为从根本上破坏了 HTTPS 的安全性，这意味着其可能可以窃取你的网络数据。  
 
-所以，我们**强烈推荐**动手能力强的同学使用另一种方式连接 RVPN。[Myth](https://github.com/Mythologyli) fork 了一个开源项目并推出了适合浙大的 [ZJU Connect](https://github.com/Mythologyli/zju-connect)，以及有GUI的 [ZJU Connect for Windows](https://github.com/mythologyli/zju-connect-for-Windows)。同学们可以自行查看链接里的使用说明。
+所以，我们**强烈推荐**动手能力强的同学使用另一种方式连接 RVPN。[Myth](https://github.com/Mythologyli) fork 了一个开源项目并推出了适合浙大的[ZJU Connect](https://github.com/Mythologyli/zju-connect)，以及有GUI的[ZJU Connect for Windows](https://github.com/mythologyli/zju-connect-for-Windows)。同学们可以自行查看链接里的使用说明。
 
 #### WebVPN
 
-WebVPN 是浙大提供的另一种访问校内资源的服务。只需要用打开 [WebVPN](https://webvpn.zju.edu.cn/)，输入账号密码即可访问校内资源。然而，WebVPN 有以下几个缺点：
+WebVPN 是浙大提供的另一种访问校内资源的服务。只需要用打开[WebVPN](https://webvpn.zju.edu.cn/)，输入账号密码即可访问校内资源。然而，WebVPN 有以下几个缺点：
 
 - 未使用 https，安全性缺乏保证
 - 访问一些网站需要多次输入网址
