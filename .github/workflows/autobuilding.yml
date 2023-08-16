@@ -2,7 +2,7 @@ name: auto-building
 on:
   push:
     branches:
-      - master 
+      - haining 
       - main
 permissions:
   contents: write

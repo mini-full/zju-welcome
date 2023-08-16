@@ -69,6 +69,22 @@ nav:
     - 饮食消费: "life/canteen.md"
     - 课外活动: "life/extracurricular.md"
     - 杭城掠影: "life/hangzhou.md"
+  
+  - 海宁国际专区:
+    - 概述: "haining/intro.md"
+    - 常用信息:
+      - 校历: "basics/school_calendar.md"
+      - 校园地图: "basics/school_map.md"
+      - 信息平台:
+        - 常用电话: "haining/basics/contact.md"
+        - 常用网站: "haining/basics/websites.md"
+        - 公众号和小程序: "haining/basics/channels.md"
+    - 学习:
+      - 基本概念: "haining/learning/concepts.md"
+      - 培养方案: "haining/learning/program.md"
+      - 课程考核: "haining/learning/eval.md"
+      - 转专业: "haining/learning/major_transfer.md"
+
 
   - 完稿小记: "postscript2022.md"
   - 后记: "postscript.md"
