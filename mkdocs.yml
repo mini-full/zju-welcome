@@ -132,7 +132,7 @@ extra_css:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/mini-full/zju-welcome/tree/gh-pages
+      link: https://github.com/mini-full/zju-welcome
     - icon: material/forum
       link: https://www.cc98.org/topic/5672880
     - icon: fontawesome/solid/paper-plane
