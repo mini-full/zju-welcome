@@ -41,4 +41,4 @@
 
 ## Contact
 
-如果你发现了本指引内容上的错误，或者对本指引有什么建议，欢迎在github仓库中提出issue，或者直接[邮件联系](mailto:kaixuanwang@zju.edu.cn)kaixuanwang@zju.edu.cn!
+如果你发现了本指引内容上的错误，或者对本指引有什么建议，欢迎在github仓库中提出issue，或者直接[邮件联系](mailto:kaixuanwang@zju.edu.cn)kaixuanwang@zju.edu.cn。也欢迎直接在github仓库中Pull Request！
