@@ -32,7 +32,7 @@
 
 ##### 通过客户端
 
-可点击 [这里](https://zuits.zju.edu.cn/2017/0622/c12077a629723/page.htm)下载客户端并登录连接。  
+可点击[这里](https://zuits.zju.edu.cn/2017/0622/c12077a629723/page.htm)下载客户端并登录连接。  
 
 ##### 通过L2TP (VPN)
 
