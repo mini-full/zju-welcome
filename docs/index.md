@@ -31,10 +31,14 @@
 - 由于现在教务网已经基本迁移到zdbk平台，基本重写了教务系统章节
 - 加入防诈骗、校园电话卡套餐、部分二次选拔平台等相关的重要信息提醒
 
-本站目前由@minifull建设、维护，预期在2023级新生报到前基本完成内容的更新。如果这个网页帮助到了你，欢迎在右上角给github仓库点一个star:)
+本站目前由@minifull建设、维护，ZJUers轻首页提供网页部署支持。
+
+这个页面会继续更新，添加新内容。从在CC98发布至今，已经新增了[邮件礼仪](learning/email_etiquette.md)和[校园网指南](basics/network_guidance.md)，未来可能还会由海宁校区的学长学姐补充海宁国际校区的相关内容。
+
+如果这个网页帮助到了你，欢迎在右上角给github仓库点一个star:)
 
 **本站点不代表浙江大学官方，仅供参考。**
 
 ## Contact
 
-如果你发现了本指引内容上的错误，或者对本指引有什么建议，欢迎在github仓库中提出issue，或者直接[邮件联系](mailto:kaixuanwang@zju.edu.cn)kaixuanwang@zju.edu.cn!
+如果你发现了本指引内容上的错误，或者对本指引有什么建议，欢迎在github仓库中提出issue，或者直接[邮件联系](mailto:kaixuanwang@zju.edu.cn)kaixuanwang@zju.edu.cn。也欢迎直接在github仓库中Pull Request！
