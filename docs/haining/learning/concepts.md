@@ -4,7 +4,7 @@
 - EE: Electrical Engineering，电气工程及其自动化  
 - ME: Mechanical Engineering，机械工程  
 - CE: Civil Engineering，土木工程。在美国对应的专业为CEE (Civil and Environmental Engineering)  
-- BMI: 生物医学信息学   
+- BMI: 生物医学信息学  
 - BMS: 生物医学科学  
 - BB: Blackboard，主要的作业网站  
 - PS: PeopleSoft，选课以及查成绩的网站  
