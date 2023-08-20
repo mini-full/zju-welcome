@@ -70,15 +70,14 @@ nav:
     - 课外活动: "life/extracurricular.md"
     - 杭城掠影: "life/hangzhou.md"
   
-  - 海宁国际专区:
+  - 海宁国际校区:
     - 概述: "haining/intro.md"
     - 常用信息:
       - 校历: "basics/school_calendar.md"
       - 校园地图: "basics/school_map.md"
-      - 信息平台:
-        - 常用电话: "haining/basics/contact.md"
-        - 常用网站: "haining/basics/websites.md"
-        - 公众号和小程序: "haining/basics/channels.md"
+      - 常用电话: "haining/basics/contact.md"
+      - 常用网站: "haining/basics/websites.md"
+      - 公众号和小程序: "haining/basics/channels.md"
     - 学习:
       - 名词解释: "haining/learning/concepts.md"
       - 培养方案: "haining/learning/program.md"
