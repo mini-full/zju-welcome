@@ -8,7 +8,7 @@
 - BMS: 生物医学科学  
 - BB: Blackboard，主要的作业网站  
 - PS: PeopleSoft，选课以及查成绩的网站  
-- GPA/均绩: 每门课获得的绩点×这门课的学分÷总学分  
+- GPA/均绩: 每门课获得的绩点和学分的乘积之和÷总学分  
 - Office hour: 教授的答疑时间  
 - Tutorial/Discussion: 讨论课  
 - Worksheet: 讨论课上小组合作的作业  
