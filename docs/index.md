@@ -35,7 +35,7 @@
 
 本站目前由@minifull建设、维护，ZJUers轻首页提供网页部署支持。
 
-这个页面会继续更新，添加新内容。从在CC98发布至今，已经新增了[邮件礼仪](learning/email_etiquette.md)和[校园网指南](basics/network_guidance.md)，未来可能还会由海宁校区的学长学姐继续补充海宁国际校区的相关内容。
+这个页面会继续更新，添加新内容。从在CC98发布至今，已经新增了[邮件礼仪](learning/email_etiquette.md)和[校园网指南](basics/network_guidance.md)，以及[海宁国际校区](haining/intro.md)相关内容。
 
 如果这个网页帮助到了你，欢迎在右上角给github仓库点一个star:)
 
