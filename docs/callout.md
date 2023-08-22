@@ -33,6 +33,7 @@
 此外在入学后，专业确认环节社科大类还有经济学（拔尖班）、金融学（试验班）等特色培养班级可以报名。
 
 [经济学（拔尖班）2023级招生简章](https://mp.weixin.qq.com/s/BzuUs9p_GLBf7QUsMgkYrg)（适用2023级）
+
 [关于选拔优秀学生进入经济学（拔尖班）学习的通知](https://mp.weixin.qq.com/s/cYvM0CsRqvvOMBXpwqZ9jg)（适用2022级和2021级，说不定有人在看呢）
 
 此外，还有[2023级数字金融（金融学-数学与应用数学）双学位班选拔](https://mp.weixin.qq.com/s/VTb405Ev8cZEaom7_Ne1WA)，截止日期为**9月12日**。
