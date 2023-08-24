@@ -79,11 +79,13 @@ nav:
       - 常用网站: "haining/basics/websites.md"
       - 公众号和小程序: "haining/basics/channels.md"
       - 校园网指南: "basics/network_guidance.md"
+      - 白嫖指南: "haining/basics/free.md"
     - 学习:
       - 名词解释: "haining/learning/concepts.md"
       - 培养方案: "haining/learning/program.md"
       - 课程考核: "haining/learning/eval.md"
       - 大一课程简介: "haining/learning/course_intro.md"
+    - 校园生活: "haining/life.md"
 
 
   - 完稿小记: "postscript2022.md"
