@@ -73,8 +73,8 @@ nav:
   - 海宁国际校区:
     - 概述: "haining/intro.md"
     - 常用信息:
-      - 校历: "basics/school_calendar.md"
-      - 校园地图: "basics/school_map.md"
+      - 院历: "haining/basics/school_calendar.md"
+      - 校区地图: "haining/basics/campus_map.md"
       - 常用电话: "haining/basics/contact.md"
       - 常用网站: "haining/basics/websites.md"
       - 公众号和小程序: "haining/basics/channels.md"
