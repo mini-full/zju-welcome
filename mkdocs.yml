@@ -123,11 +123,14 @@ theme:
 
   features:
     - navigation.instant
+    - navigation.tabs
     - navigation.tracking
     - navigation.path
+    - toc.integrate
+    - toc.follow
     - navigation.top
     - navigation.footer
-    # - navigation.expand
+    - navigation.expand
 
     - search.highlight
     - search.share
