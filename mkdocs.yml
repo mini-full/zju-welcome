@@ -87,6 +87,14 @@ nav:
       - 大一课程简介: "haining/learning/course_intro.md"
     - 校园生活: "haining/life.md"
 
+  - 港澳台生专题:
+    - 身份证件: "HK_Macao_Taiwan/id.md"
+    - 生活适应: "HK_Macao_Taiwan/livingatzju.md"
+    - 课程衔接与要求: "HK_Macao_Taiwan/specialcourses.md"
+    - 实践实习活动: "HK_Macao_Taiwan/practice.md"
+    - 升学就业: "HK_Macao_Taiwan/post-graduation.md"
+    - 认识祖国大好河山: "HK_Macao_Taiwan/traveling.md"
+
 
   - 完稿小记: "postscript2022.md"
   - 后记: "postscript.md"
