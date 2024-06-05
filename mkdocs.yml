@@ -9,10 +9,11 @@ copyright: Copyright &copy; 2023-present <a href="https://github.com/mini-full" 
 
 nav:
   - 首页: "index.md"
-  - 前言: "preface.md"
-  - 作者声明: "statement2022.md"
-  - 重要提示: "callout.md"
-  - 导语: "intro.md"
+  - 前言:
+    - 前言: "preface.md"
+    - 作者声明: "statement2022.md"
+    - 重要提示: "callout.md"
+    - 导语: "intro.md"
   - CC98论坛攻略: "cc98.md"
   - 常用信息:
     - 浙大校历: "basics/school_calendar.md"
@@ -95,9 +96,9 @@ nav:
     - 升学就业: "HK_Macao_Taiwan/post-graduation.md"
     - 认识祖国大好河山: "HK_Macao_Taiwan/traveling.md"
 
-
-  - 完稿小记: "postscript2022.md"
-  - 后记: "postscript.md"
+  - 后记:
+    - 后记: "postscript.md"
+    - 完稿小记: "postscript2022.md"
   
 
 theme:
