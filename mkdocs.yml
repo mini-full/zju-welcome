@@ -70,6 +70,12 @@ nav:
     - 饮食消费: "life/canteen.md"
     - 课外活动: "life/extracurricular.md"
     - 杭城掠影: "life/hangzhou.md"
+  - 奖助:
+    - 基础评价: "funding/evaluation.md"
+    - 荣誉体系: "funding/honor.md"
+    - 奖学金: "funding/scholarship.md"
+    - 学生资助: "funding/financial_aid.md"
+
   
   - 海宁国际校区:
     - 概述: "haining/intro.md"
