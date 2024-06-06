@@ -168,9 +168,9 @@ modified: '2024-06-05T18:59:45.752Z'
 
 ### 联系方式
 
-如果你发现了本指引内容上的错误，或者对本指引有一些意见建议，欢迎在github仓库中提出issue，或者直接[邮件联系](kaixuanwang@zju.edu.cn)编委@minifull，kaixuanwang@zju.edu.cn。也欢迎直接在github仓库中Pull Request！
+如果你发现了本指引内容上的错误，或者对本指引有一些意见建议，欢迎在github仓库中提出issue，或者直接[邮件联系](mailto:kaixuanwang@zju.edu.cn)编委@minifull，kaixuanwang@zju.edu.cn。也欢迎直接在github仓库中Pull Request！
 
-如果你希望与新生指引编委会就相关工作开展合作，进行调查、研究、访谈、报道等，或希望获得新生指引内容使用授权，请通过[邮件联系](huangshaoqi@zju.edu.cn)主编@好神奇，huangshaoqi@zju.edu.cn
+如果你希望与新生指引编委会就相关工作开展合作，进行调查、研究、访谈、报道等，或希望获得新生指引内容使用授权，请通过[邮件联系](mailto:huangshaoqi@zju.edu.cn)主编@好神奇，huangshaoqi@zju.edu.cn
 
 ## 版权声明
 
