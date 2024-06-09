@@ -12,7 +12,7 @@
 
 念哉典学，思睿观通。有文有质，有农有工。兼总条贯，知至知终。成章乃达，若金之在熔，尚亨于野，无吝于宗。树我邦国，天下来同。
 
-<center>![校歌](../assets/song.png)</center>
+<center><img src="../assets/song.png"></center>
 
 ## 校歌翻译
 
