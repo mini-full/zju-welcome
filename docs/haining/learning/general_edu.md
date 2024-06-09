@@ -1,4 +1,4 @@
-# 通识
+# 通识（ZJUI）
 
 从2022级新生开始，通识课一共只需要12学分即可满足毕业要求，也就是说可以通过合适的选课方式只上四门通识课即满足毕业要求。通识课分为以下几类：Humanities & Arts(HA)，Social & Behavioral Sciences(SS)，Western/Comparative Culture(WCC),Non-Western Culture(NWC)，U.S. Minority Culture(US),Aesthetic Education(美育)。其中HA和SS各需要两门，其他都只需要一门。CE和ME的同学的有一门SS必须是经济类 ECON102 or ECON103，EE和ECE的同学没有任何限制。因为通识在安排得当的情况下只用上四门，因此如果大一没选上想上的课也不用去硬上一门“烂课”，等到大三大四再选可以拥有更高的优先级，更能轻松的上到想上的课。
 
