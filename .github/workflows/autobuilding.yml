@@ -1,27 +1,65 @@
-name: auto-building
+name: Build and Deploy
+
 on:
   push:
     branches:
-      - haining 
       - main
+  workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-python@v4
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-      - uses: actions/cache@v3
+          cache: pip
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: build
+        run: mkdocs build
+
+      - name: Upload
+        uses: actions/upload-pages-artifact@v3
         with:
-          key: mkdocs-material-${{ env.cache_id }}
-          path: .cache
-          restore-keys: |
-            mkdocs-material-
-      - run: pip install mkdocs-material 
-      # - run: pip install mkdocs-git-revision-date-localized-plugin
-      - run: pip install jieba
-      - run: mkdocs gh-deploy --force
+          path: site
+
+      - name: update gh-pages branch
+        run: |
+          mv site /tmp/
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git checkout --orphan gh-pages
+          git reset --hard
+          mv /tmp/site/* ./
+          git add -A
+          git commit -m "Update gh-pages"
+          git push origin gh-pages --force
+
+
+  deploy:
+    needs: build
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
