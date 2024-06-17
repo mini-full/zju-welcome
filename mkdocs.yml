@@ -86,7 +86,7 @@ nav:
       - 常用电话: "haining/basics/contact.md"
       - 常用网站: "haining/basics/websites.md"
       - 公众号和小程序: "haining/basics/channels.md"
-      - 校园网指南: "basics/network_guidance.md"
+      - 校园网指南: "life/network.md"
       - 白嫖指南: "haining/basics/free.md"
     - 学习:
       - 名词解释: "haining/learning/concepts.md"
@@ -94,13 +94,11 @@ nav:
       - 课程考核: "haining/learning/eval.md"
       - 大一课程简介: "haining/learning/course_intro.md"
       - 通识课: "haining/learning/general_edu.md"
-    - 科研 & 竞赛: "haining/research.md"
     - 评奖评优: "haining/scholarship.md"
     - 校园生活: 
       - 吃住: "haining/life/canteen_dorm.md"
       - 学生活动: "haining/life/extracurricular.md"
       - 社会实践: "haining/life/practice.md"
-      - 反诈: "haining/life/anitfraud.md"
 
   - 港澳台生专题:
     - 身份证件: "HK_Macao_Taiwan/id.md"
