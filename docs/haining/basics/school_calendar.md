@@ -2,8 +2,4 @@
 
 [院历列表](https://www.intl.zju.edu.cn/zh-hans/academics/calendar)
 
-[浙江大学海宁国际校区2023-2024学年院历](../../assets/haining/haining_calendar.pdf)
-
-![秋冬学期](../../assets/haining/haining_calendar_semester1.webp)
-
-![春夏学期](../../assets/haining/haining_calendar_semester2.webp)
+![秋冬学期](../../assets/haining/浙江大学国际联合学院（海宁国际校区）2024-2025学年秋冬学期院历.webp)
