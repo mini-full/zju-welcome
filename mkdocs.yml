@@ -60,7 +60,6 @@ nav:
   - 选课:
     - 选课通知: "course_sys/enroll.md"
     - 选课规则: "course_sys/rules.md"
-    - 概念解释: "course_sys/concepts.md"
     - 选课操作: "course_sys/operation.md"
     - 选课技巧: "course_sys/tricks.md"
   - 生活:
@@ -76,7 +75,6 @@ nav:
   - 园区:
     - 蓝田学园: "dorms/lantian.md"
     - 紫云碧峰学园: "dorms/yunfeng.md"
-    
   - 奖助:
     - 基础评价: "funding/evaluation.md"
     - 荣誉体系: "funding/honor.md"
