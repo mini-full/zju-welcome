@@ -1,7 +1,7 @@
 # 始业教育
 
-![initedu1](../assets/init_edu1.webp)
-![initedu2](../assets/init_edu2.webp)
+![initedu1](../assets/init_edu1.png)
+![initedu2](../assets/init_edu2.png)
 
 ## 班级组建
 
