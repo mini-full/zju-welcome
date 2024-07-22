@@ -12,7 +12,7 @@
 
 念哉典学，思睿观通。有文有质，有农有工。兼总条贯，知至知终。成章乃达，若金之在熔，尚亨于野，无吝于宗。树我邦国，天下来同。
 
-[song](../assets/song.png)
+![校歌歌词](../assets/song.png "校歌歌词")
 
 点击[这里](https://music.163.com/#/song?id=480235092)聆听浙大校歌，[这里](https://www.bilibili.com/video/BV1Nx4113792/?vd_source=5b76e154e681f18a8eb30a71db91c8c0)查看MV，军训的时候合唱团合唱曲目一般都包含校歌。
 
