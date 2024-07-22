@@ -62,6 +62,11 @@ nav:
     - 选课规则: "course_sys/rules.md"
     - 选课操作: "course_sys/operation.md"
     - 选课技巧: "course_sys/tricks.md"
+  - 奖助:
+    - 基础评价: "awards&grants/evaluation.md"
+    - 荣誉体系: "awards&grants/honor.md"
+    - 奖学金: "awards&grants/scholarships.md"
+    - 学生资助: "awards&grants/grants.md"
   - 生活:
     - 校园区域: "life/campus.md"
     - 寝室园区: "life/dorm.md"
@@ -75,11 +80,6 @@ nav:
   - 园区:
     - 蓝田学园: "dorms/lantian.md"
     - 紫云碧峰学园: "dorms/yunfeng.md"
-  - 奖助:
-    - 基础评价: "awards&grants/evaluation.md"
-    - 荣誉体系: "awards&grants/honor.md"
-    - 奖学金: "awards&grants/scholarships.md"
-    - 学生资助: "awards&grants/grants.md"
 
   
   - 海宁国际校区:
