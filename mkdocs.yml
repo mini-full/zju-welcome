@@ -8,10 +8,10 @@ copyright: Copyright &copy; 2023-present <a href="https://github.com/mini-full" 
 
 
 nav:
-  - 首页: "index.md"
-  - 前言:
-    - 前言: "preface.md"
+  - 首页:
+    - 首页: "index.md"
     - 重要提示: "callout.md"
+    - 前言: "preface.md"
   - CC98论坛攻略: "cc98.md"
   - 常用信息:
     - 浙大校历: "basics/school_calendar.md"
