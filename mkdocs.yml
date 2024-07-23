@@ -12,7 +12,6 @@ nav:
     - 首页: "index.md"
     - 重要提示: "callout.md"
     - 前言: "preface.md"
-  - CC98论坛攻略: "cc98.md"
   - 常用信息:
     - 浙大校历: "basics/school_calendar.md"
     - 校园地图: "basics/school_map.md"
@@ -28,10 +27,11 @@ nav:
       - 常用电话: "basics/contact.md"
       - 常用网站: "basics/websites.md"
       - 公众号和小程序: "basics/channels.md"
+      - 软件使用: "basics/software.md"
     - 特色黑话: "basics/slang.md"
-    - 校园网指南: "basics/network_guidance.md"
   - 入学:
     - 注册缴费: "registration/fee.md"
+    - 线上准备: "registration/preparations_online.md"
     - 物品准备: "registration/items_to_take.md"
     - 入校交通: "registration/transportation.md"
     - 报到流程: "registration/procedure.md"
@@ -62,7 +62,7 @@ nav:
     - 选课技巧: "course_sys/tricks.md"
   - 奖助:
     - 基础评价: "awards&grants/evaluation.md"
-    - 荣誉体系: "awards&grants/honor.md"
+    - 荣誉称号体系: "awards&grants/honor.md"
     - 奖学金: "awards&grants/scholarships.md"
     - 学生资助: "awards&grants/grants.md"
   - 生活:
@@ -74,6 +74,7 @@ nav:
     - 校园交通: "life/traffic.md"
     - 学生组织与社团: "life/extracurricular.md"
     - 运动场馆与艺术中心: "life/sports.md"
+    - 自习空间查询&会议面试场地借用: "life/public_resources.md"
     - 杭城掠影: "life/hangzhou.md"
     - 校园卡电话套餐: "life/cellphone-plans.md"
   - 园区:
@@ -90,7 +91,7 @@ nav:
       - 常用电话: "haining/basics/contact.md"
       - 常用网站: "haining/basics/websites.md"
       - 公众号和小程序: "haining/basics/channels.md"
-      - 校园网指南: "life/network.md"
+      - 校园网指南: "haining/basics/network.md"
       - 白嫖指南: "haining/basics/free.md"
     - 学习:
       - 名词解释: "haining/learning/concepts.md"
@@ -111,6 +112,9 @@ nav:
     - 实践实习活动: "HK_Macao_Taiwan/practice.md"
     - 升学就业: "HK_Macao_Taiwan/post-graduation.md"
     - 认识祖国大好河山: "HK_Macao_Taiwan/traveling.md"
+  - CC98论坛:
+    - CC98论坛使用攻略: "cc98/cc98.md"
+    - CC98论坛经验精华贴遴选: "cc98/recommended.md"
 
   - 后记:
     - 后记: "postscript.md"
