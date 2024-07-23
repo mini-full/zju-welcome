@@ -27,7 +27,7 @@
 距离紫金港校区最近的汽车站，省内学生可搭乘大巴车在此下车。距离紫金港校区打车约15分钟，花费约15元，不建议搭乘公共交通。
 各交通枢纽地理位置见下图。
 
-![transporation](../assets/transportation.png)
+![transporation](../assets/transportation.webp)
 
 ## 入校
 
