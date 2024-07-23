@@ -12,7 +12,7 @@
   
 ## 主干课程、毕业学分、学制学位
 
-![Alt text](../assets/robot1.png)
+![Alt text](../assets/robot-1.webp)
 
 ### 专业主干课程
 
