@@ -24,7 +24,7 @@
 
 - 安卓系统：应用宝搜索“浙大体艺”下载或扫描下方二维码下载
 
-  ![](./assets/zhedatiyi.jpg)
+  ![](../assets/zhedatiyi.webp)
 
 ### 浙大校园卡APP
 
@@ -32,7 +32,7 @@
 
 下载二维码
 
-![](./assets/card.png)
+![](../assets/card.webp)
 
  
 
