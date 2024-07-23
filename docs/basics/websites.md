@@ -36,7 +36,7 @@
 
 | [浙江大学RVPN服务系统](https://rvpn.zju.edu.cn)              | 浙江大学RVPN（校外登录内网）    |
 | ------------------------------------------------------------ | ------------------------------- |
-| [**正版软件管理与服务平台**](http://ms-zju-edu-cn.webvpn.zju.edu.cn:8001/) | Adobe、Office等正版软件免费下载 |
+| [**正版软件管理与服务平台**](http://ms.zju.edu.cn/) | Adobe、Office等正版软件免费下载 |
 | [浙江大学邮件系统](https://mail.zju.edu.cn/)                 | 浙江大学专属邮箱                |
 | [浙大云盘](https://pan.zju.edu.cn)                           | 浙江大学云网盘                  |
 | [浙江大学图书馆](https://libweb.zju.edu.cn/)                 | 图书馆资源与文献查阅            |
