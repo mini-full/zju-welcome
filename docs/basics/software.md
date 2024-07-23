@@ -4,7 +4,7 @@
 
 ### 浙大钉/钉钉
 
-浙大钉
+TODO
 
 ### 浙大体艺
 
@@ -21,10 +21,9 @@
 下载方式
 
 - 苹果系统：APP STORE搜索“浙大体艺”下载或扫描下方二维码下载
-
 - 安卓系统：应用宝搜索“浙大体艺”下载或扫描下方二维码下载
 
-  ![](../assets/zhedatiyi.webp)
+  <img src="../assets/zhedatiyi.webp" style="zoom: 67%;" />
 
 ### 浙大校园卡APP
 
@@ -32,9 +31,7 @@
 
 下载二维码
 
-![](../assets/card.webp)
-
- 
+<img src="../assets/card.webp" style="zoom: 33%;" />
 
 ## 第三方App
 
