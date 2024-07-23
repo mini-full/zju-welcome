@@ -44,7 +44,7 @@
 
 [Celechron](https://www.cc98.org/topic/5807824)由CC98论坛用户[@iotang](https://www.cc98.org/user/id/672329)开发，安装指南详见[其文档与安装指南](https://www.cc98.org/topic/5807824)。
 
-Celechron 是一个为浙大学生服务的开源时间管理器, Celechron 提供日程、课表、课程、成绩的查询功能和自动规划任务功能。
+Celechron 是一个为浙大学生服务的开源时间管理器，Celechron 提供日程、课表、课程、成绩的查询功能和自动规划任务功能。
 
 ### 求是潮Mobile
 
