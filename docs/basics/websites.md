@@ -38,6 +38,7 @@
 | ------------------------------------------------------------ | ------------------------------- |
 | [**正版软件管理与服务平台**](http://ms-zju-edu-cn.webvpn.zju.edu.cn:8001/) | Adobe、Office等正版软件免费下载 |
 | [浙江大学邮件系统](https://mail.zju.edu.cn/)                 | 浙江大学专属邮箱                |
+| [浙大语雀](https://yuque.zju.edu.cn)                        | 浙江大学语雀企业版              |
 | [浙大云盘](https://pan.zju.edu.cn)                           | 浙江大学云网盘                  |
 | [浙江大学图书馆](https://libweb.zju.edu.cn/)                 | 图书馆资源与文献查阅            |
 | [浙江大学教学资源管理系统](http://jxzygl.zju.edu.cn/)        | 校内普通教室借用                |
@@ -50,6 +51,7 @@
 | [**浙江大学E校园电子地图平台**](https://map.zju.edu.cn/index) | **浙江大学各校区电子地图**     |
 | [浙江大学计财处](http://cwcx.zju.edu.cn/WFManager/login.jsp)                            | 个人奖补勤酬和报销等财务信息查询     |
 | [浙江大学收费平台](http://pay.zju.edu.cn/payment/login.jsp)                             | 学费及其他相关费用缴纳               |
+| [网费管理](https://myvpn.zju.edu.cn) | 网费管理、邮箱别名设置 |
 | [云访浙大](https://720yun.com/t/84vksqfez2y?scene_id=48324019)                          | 720°VR校园全景                      |
 | [ZJUers轻首页](https://zjuers.com/)                                                     | 可以用来做浏览器首页                 |
 
