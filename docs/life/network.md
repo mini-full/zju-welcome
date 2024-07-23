@@ -127,4 +127,4 @@ MATLAB系列软件需要先使用浙大邮箱注册**MathWorks**账号，并关�
 
 ## ZJU 镜像站
 
-浙江大学开源软件镜像站由[浙江大学超算队（ZJUSCT）](https://www.zjusct.io/)建设与维护，[浙江大学信息技术中心](https://zuits.zju.edu.cn/)提供设备支持，提供全面的各类项目源镜像，包含  PostgreSQL，Ubuntu ，PyPi等。有需要的同学可根据自己的开发环境，进行相应配置，享受高速内网带宽。
+[浙江大学开源软件镜像站](https://mirror.zju.edu.cn/)由[浙江大学超算队（ZJUSCT）](https://www.zjusct.io/)建设与维护，[浙江大学信息技术中心](https://zuits.zju.edu.cn/)提供设备支持，提供全面的各类项目源镜像，包含  PostgreSQL，Ubuntu ，PyPi等。有需要的同学可根据自己的开发环境，进行相应配置，享受高速内网带宽。
