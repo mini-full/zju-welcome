@@ -113,7 +113,7 @@ MATLAB系列软件需要先使用浙大邮箱注册**MathWorks**账号，并关�
 
 正版软件平台Office与Windows的安装流程如下
 
-![img](../assets/install1.png)
+![img](../assets/install1.webp)
 
 学校提供的正版Office与windows采用KMS模式进行激活，每次激活有效期180天，运行平台提供的GP客户端即可自动续期。市面上的笔记本一般都已预装了windows家庭版，无需使用正版软件平台激活，如果有升级到专业版的需求可用[正版软件平台工具](http://ms.zju.edu.cn/help/winconversion)进行升级激活。
 

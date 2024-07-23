@@ -2,7 +2,7 @@
 
 ## 校内食堂
 
-![Alt text](../assets/canteen.jpg)
+![Alt text](../assets/canteen.webp)
 
 <!-- TODO：更新这条推文消息，玉湖一楼新开了食堂，玉泉新开了食堂 -->
 
