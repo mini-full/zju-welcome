@@ -1,12 +1,12 @@
 # 竺院选拔
 
-经2023年调整之后，竺可桢学院现设平台共有：混合班、人文社科实验班、医学实验班（八年制）即“巴德年医学班”、新农科实验班（本博贯通）（“神农班”为其前身）、图灵班、求是科学班（包括数学与应用数学、物理学、化学、生物科学、心理学、基础医学、地质学、汉语言文学共8个班级）、强基计划班（包括数学与应用数学、物理学、工程力学、化学、生物科学、生态学、基础医学、汉语言文学（古文字学方向）、历史学、哲学共10个班级）。
+经2024年调整之后，竺可桢学院现设平台共有：混合班、人文社科实验班、医学实验班（八年制）即“巴德年医学班”、新农科实验班（本博贯通）（“神农班”为其前身）、图灵班、求是科学班（包括数学与应用数学、物理学、化学、生物科学、心理学、基础医学、地质学、汉语言文学共8个班级）、强基计划班（包括数学与应用数学、物理学、工程力学、化学、生物科学、生态学、基础医学、汉语言文学（古文字学方向）、历史学、哲学共10个班级）。
 
-此外，荣誉项目（不直接归属竺院管理）包括：机器人工程、智能财务、数字公共治理（前身为公共管理英才班）、智慧能源。这四个平台2021级及以前在竺可桢学院培养。
+此外，荣誉项目（不直接归属竺院管理）包括：机器人工程、智能财务、数字公共治理（前身为公共管理英才班）、智慧能源、人工智能。这四个平台2021级及以前在竺可桢学院培养。
 
 以上涉及新生选拔的平台，招生简章请见[重要提示](../callout.md)。
 
-以往由于疫情原因，竺院新生选拔大都是通过线上面试方式进行，今年加入了笔试部分，可以参考这篇[关于竺考的远古推文](https://mp.weixin.qq.com/s/j0y7vXkWt7nj2J75p4bB9w)。
+关于竺院新生选拔可以参考这篇[推文]([https://mp.weixin.qq.com/s/j0y7vXkWt7nj2J75p4bB9w](https://mp.weixin.qq.com/s?search_click_id=1793179847675159530-1721721780685-7851609078&__biz=MjM5ODE5NzY0Nw==&mid=2651056603&idx=1&sn=9b0d9d017c8efbe245f0cc446ce23df2&chksm=bd39293b8a4ea02d635c20c2dfa948a65017a3d0d59fce5040b1baa01ca6727ddad36e310f87&clicktime=1721721780&enterid=1721721780&subscene=0&ascene=65&devicetype=iOS17.2.1&version=18002f2c&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=CN&fontScale=100&exportkey=n_ChQIAhIQC3Iqrz6EWf2w%2BXwEjpiTBBLhAQIE97dBBAEAAAAAAA9oJ3vuCQ0AAAAOpnltbLcz9gKNyK89dVj0jI%2BeIkHLb6PQOQ94VcSYPqzZ4DPdvx7GDK40KA8wxCjzYaG1cdAfBb%2F8rcfD1TOdAYvMwQ4OtxSUG8gjoYPVUjDW4fxLjej6Kv%2BZfiR8%2BSus7b%2BMDMrb%2F7EDj6U0XPHGvxFcnpHA9Tq4sJ7t%2BMgozaGNVRX7BIfVSAmYHd8J9ZuJr3g2%2BVMIz8fHV0QWSF925T%2FUBUmMgz%2FN4Hzy%2B1n%2Boxi2387TkfF3camdZcK1f9gk5ZjZHAnhqdbDeA%3D%3D&pass_ticket=KR1sNVS6lOeUg8GHTo4zymV%2BF6Eg5haPvXg8ucnyNf5HVwjdK0oLF0e1WilW%2FpTG&wx_header=3))。
 
 **注意：竺院的新生选拔和二次选拔的形式与政策经常发生变动，关于新生选拔的具体形式、截止时间等等，请以官方通知为准，以下包含之前面试等流程的部分回忆，仅供参考。**
 
@@ -80,7 +80,7 @@
 
 ### 图灵班
 
-限计算机学院同学报名。参考[2022级图灵班增补选拔的通知](http://cspo.zju.edu.cn/2023/0220/c29529a2716466/page.htm)。
+限计算机学院同学报名。参考[2023级图灵班增补选拔的通知](http://cspo.zju.edu.cn/2024/0119/c29529a2861256/page.htm)。
 
 ### 部分求科、强基班
 
