@@ -12,7 +12,6 @@ nav:
     - 首页: "index.md"
     - 重要提示: "callout.md"
     - 前言: "preface.md"
-  - CC98论坛攻略: "cc98.md"
   - 常用信息:
     - 浙大校历: "basics/school_calendar.md"
     - 校园地图: "basics/school_map.md"
@@ -111,6 +110,9 @@ nav:
     - 实践实习活动: "HK_Macao_Taiwan/practice.md"
     - 升学就业: "HK_Macao_Taiwan/post-graduation.md"
     - 认识祖国大好河山: "HK_Macao_Taiwan/traveling.md"
+  - CC98论坛:
+    - CC98论坛使用攻略: "cc98/cc98.md"
+    - CC98论坛经验精华贴遴选: "cc98/recommended.md"
 
   - 后记:
     - 后记: "postscript.md"
