@@ -12,6 +12,7 @@ nav:
     - 首页: "index.md"
     - 重要提示: "callout.md"
     - 前言: "preface.md"
+    - 从零开始激活通行证: "network_detailed.md"
   - 常用信息:
     - 浙大校历: "basics/school_calendar.md"
     - 校园地图: "basics/school_map.md"
