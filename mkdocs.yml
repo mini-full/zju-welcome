@@ -175,6 +175,7 @@ plugins:
         - en
         - ja
       separator: '[\s\u200b\-]'
+  - privacy
 
 markdown_extensions:
   - pymdownx.arithmatex:
