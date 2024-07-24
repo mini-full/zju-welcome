@@ -37,7 +37,7 @@
 
 ### 浙大校园卡APP
 
-浙大校园卡APP提供了校园卡二维码付款、校园卡充值、账单管理等功能。更多使用技巧可参考浙江大学校园卡管理办公室发布的 [应用指南](https://ecard.zju.edu.cn/plat-pc/newsannouncement/detail/381)
+浙大校园卡APP提供了校园卡二维码付款、校园卡充值、账单管理等功能。更多使用技巧可参考浙江大学校园卡管理办公室发布的[应用指南](https://ecard.zju.edu.cn/plat-pc/newsannouncement/detail/381)
 
 下载二维码:
 

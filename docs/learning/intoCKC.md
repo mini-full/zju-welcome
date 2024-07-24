@@ -6,7 +6,7 @@
 
 以上涉及新生选拔的平台，招生简章请见[重要提示](../callout.md)。
 
-关于竺院新生选拔可以参考这篇[推文]([https://mp.weixin.qq.com/s/j0y7vXkWt7nj2J75p4bB9w](https://mp.weixin.qq.com/s?search_click_id=1793179847675159530-1721721780685-7851609078&__biz=MjM5ODE5NzY0Nw==&mid=2651056603&idx=1&sn=9b0d9d017c8efbe245f0cc446ce23df2&chksm=bd39293b8a4ea02d635c20c2dfa948a65017a3d0d59fce5040b1baa01ca6727ddad36e310f87&clicktime=1721721780&enterid=1721721780&subscene=0&ascene=65&devicetype=iOS17.2.1&version=18002f2c&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&countrycode=CN&fontScale=100&exportkey=n_ChQIAhIQC3Iqrz6EWf2w%2BXwEjpiTBBLhAQIE97dBBAEAAAAAAA9oJ3vuCQ0AAAAOpnltbLcz9gKNyK89dVj0jI%2BeIkHLb6PQOQ94VcSYPqzZ4DPdvx7GDK40KA8wxCjzYaG1cdAfBb%2F8rcfD1TOdAYvMwQ4OtxSUG8gjoYPVUjDW4fxLjej6Kv%2BZfiR8%2BSus7b%2BMDMrb%2F7EDj6U0XPHGvxFcnpHA9Tq4sJ7t%2BMgozaGNVRX7BIfVSAmYHd8J9ZuJr3g2%2BVMIz8fHV0QWSF925T%2FUBUmMgz%2FN4Hzy%2B1n%2Boxi2387TkfF3camdZcK1f9gk5ZjZHAnhqdbDeA%3D%3D&pass_ticket=KR1sNVS6lOeUg8GHTo4zymV%2BF6Eg5haPvXg8ucnyNf5HVwjdK0oLF0e1WilW%2FpTG&wx_header=3))。
+关于竺院新生选拔可以参考这篇[推文](https://mp.weixin.qq.com/s/OPNbUElc3SGJYZYq1M8O0g)。
 
 **注意：竺院的新生选拔和二次选拔的形式与政策经常发生变动，关于新生选拔的具体形式、截止时间等等，请以官方通知为准，以下包含之前面试等流程的部分回忆，仅供参考。**
 
@@ -43,7 +43,7 @@
 地质学（求是科学班）曾经问过如下问题：
     假如你有一个室友不洗脚，你会怎么做？
     你在地图上看过你家离浙大有多远吗？
-    
+
 生物科学（求是科学班）的选拔若不通过，在往年还有进入生物科学（强基计划）的机会。
 
 数学与应用数学（求是科学班）问过：
@@ -56,7 +56,6 @@
 （2）浙江省以外省份考生，高考总分名列所在省份前列，理综成绩折算成百分制后达到90分，数学和外语两项成绩总和折算成百分制后达到80分。
 - 考核形式：面试
 - 往年情况：多对一面试，十分钟左右，其中包含中文自我介绍一分钟，以及3~4个问题，其中会有一个是与能源与环境系统工程相关的问题，去年曾经问过：你了解的本专业领域的发展方向有哪些？列举有关科学家的名字。你人生中最难忘的经历，以及你为什么对本专业感兴趣等。后面会有英语相关的测试，2分钟口译一篇英语短文（基本都翻译不完）。
-
 
 更多信息可以参考[新生选拔网址](http://ckc.zju.edu.cn/54001/list.htm)，同时部分班级由专业学院进行选拔，可以关注相关学院的官网。以及[各专业培养方案](http://office.ckc.zju.edu.cn/2023/0825/c79420a2793643/page.htm)
 
