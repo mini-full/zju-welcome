@@ -2,3 +2,4 @@ site/
 mkdocs.yml
 docs/js/tongji.js
 welcome/
+.cache/
