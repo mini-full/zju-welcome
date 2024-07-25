@@ -38,6 +38,7 @@ nav:
     - 报到流程: "registration/procedure.md"
     - 始业教育: "registration/initial_edu.md"
     - 新生防骗: "registration/secure.md"
+    - 校园卡电话套餐: "life/cellphone-plans.md"
   - 军训:
     - 作息时间: "military_training/time.md"
     - 组织架构: "military_training/structure.md"
@@ -76,10 +77,9 @@ nav:
     - 就医服务: "life/medical-treatment.md"
     - 图书馆介绍: "life/library.md"
     - 运动场馆与艺术中心: "life/sports.md"
-    - 自习空间查询&会议面试场地借用: "life/public_resources.md"
+    - 场地借用与自习空间: "life/public_resources.md"
     - 学生组织与社团: "life/extracurricular.md"
     - 杭城掠影: "life/hangzhou.md"
-    - 校园卡电话套餐: "life/cellphone-plans.md"
   - 园区:
     - 丹阳青溪学园: "dorms/danqing.md"
     - 紫云碧峰学园: "dorms/yunfeng.md"
@@ -175,10 +175,18 @@ plugins:
         - en
         - ja
       separator: '[\s\u200b\-]'
+  - privacy
 
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - assets/js/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 
 extra:
