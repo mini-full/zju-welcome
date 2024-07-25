@@ -20,10 +20,8 @@
 
 除国家、社会和学校资助外，部分学院也会有自己的资助政策如助学金等。
 
-- [浙江大学本科学生资助工作管理办法](https://www.cmm.zju.edu.cn/_upload/article/files/1e/ed/0e66523e49f19da170be46539ae5/bb02d94d-04b4-4565-aa0b-119d05883030.pdf)
-- [浙江大学本科学生勤工助学管理办法](http://www.xgb.zju.edu.cn/_upload/article/files/93/d1/4f6a7ada478e9032d182a3b1d4d8/f66b6196-7d26-484d-9d5e-ffafa2b16023.pdf)
-
-<!-- todo:鼓励申请 -->
+- [浙江大学本科学生资助工作管理办法](https://zjuers.com/rd?url=https://www.cmm.zju.edu.cn/_upload/article/files/1e/ed/0e66523e49f19da170be46539ae5/bb02d94d-04b4-4565-aa0b-119d05883030.pdf&mode=1)
+- [浙江大学本科学生勤工助学管理办法](https://zjuers.com/rd?url=http://www.xgb.zju.edu.cn/_upload/article/files/93/d1/4f6a7ada478e9032d182a3b1d4d8/f66b6196-7d26-484d-9d5e-ffafa2b16023.pdf&mode=1)
 
 ## 资助前期工作
 

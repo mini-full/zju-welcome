@@ -16,7 +16,7 @@ SRTP即浙江大学学生科研训练计划（Student Research Training Project�
 
 通常而言，SRTP会在每年春学期开学初进行项目申报，分为国家级、省级、校级、院级四级项目，面向对象一般为大二、大三学生，一个项目通常持续约一年时间，项目成果（如论文、专利等）属于项目团队。
 
-更多关于SRTP的内容（如是否需要参加等）可以参考[老学长的帖子](https://www.cc98.org/topic/5827539)
+更多关于SRTP的内容（如是否需要参加等）可以参考[老学长的帖子](https://zjuers.com/rd?url=https://www.cc98.org/topic/5827539&mode=1)
 
 ## SREP：学生科研创业项目
 
