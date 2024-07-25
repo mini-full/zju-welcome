@@ -80,7 +80,7 @@
 
 ### 图灵班
 
-限计算机学院同学报名。参考[2023级图灵班增补选拔的通知](http://cspo.zju.edu.cn/2024/0119/c29529a2861256/page.htm)。
+限计算机学院同学报名。参考[2023级图灵班增补选拔的通知](https://zjuers.com/rd?url=http://cspo.zju.edu.cn/2024/0119/c29529a2861256/page.htm&mode=1)。
 
 ### 部分求科、强基班
 
@@ -89,5 +89,5 @@
 - **数学与应用数学**
 一般有三轮增补选拔，在大一寒假、大一暑假和大二寒假进行报名。参考22级的[第一轮选拔通知](http://www.math.zju.edu.cn/2023/0126/c38080a2711731/page.htm)和[第二轮选拔通知](http://www.math.zju.edu.cn/2023/0725/c38080a2785788/page.htm)，以及21级的[第三轮选拔通知](http://www.math.zju.edu.cn/2023/0127/c38080a2711732/page.htm)。
 - **生物科学（强基计划班）**（于暑假报名，大二开学时参与选拔）
-[关于选拔2020级优秀学生进入生物科学（强基班）的通知](http://www.cls.office.zju.edu.cn/2021/0819/c25871a2415535/page.htm)
+[关于选拔2020级优秀学生进入生物科学（强基班）的通知](https://zjuers.com/rd?url=http://www.cls.office.zju.edu.cn/2021/0819/c25871a2415535/page.htm&mode=1)
 - 其他平台的二次选拔情况请届时到相关学院院网查询。

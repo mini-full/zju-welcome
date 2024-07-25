@@ -97,16 +97,16 @@ modified: '2024-06-05T18:59:45.752Z'
 
 > 编委按负责章节顺序为序
 
-- 主编：[@好神奇](http://www.cc98.org/user/id/658113)，主持修订工作，负责框架设计、网页版文字润色、纸质版联络推进，负责第六章“奖助”
-- 编委：[@adsr](http://www.cc98.org/user/id/672666)，负责第一章“常用信息”、第二章“入学”
-- 编委：[@outofemo](http://www.cc98.org/user/id/704214)，负责第三章“军训”
-- 编委：[@辰幻](http://www.cc98.org/user/id/706425)，负责第四章“学习”
-- 编委：[@阿阿阿阿柒](http://www.cc98.org/user/id/681380)，负责第五章“选课”
-- 编委：[@minifull](http://www.cc98.org/user/id/667590)，负责网页内容部署工作，负责第七章“生活”
-- 编委：[@3200101971](http://www.cc98.org/user/id/648740)，负责第八章“园区”
-- 编委：[@Geniucker](http://www.cc98.org/user/id/701516)，负责海宁国际校区专题
-- 编委：[@torsion](http://www.cc98.org/user/id/724572)，负责港澳台生专题
-- 技术支持：[@zyz1z1](http://www.cc98.org/user/id/634438)，负责zjuers网页站点建设
+- 主编：[@好神奇](https://zjuers.com/rd?url=https://www.cc98.org/user/id/658113&mode=1)，主持修订工作，负责框架设计、网页版文字润色、纸质版联络推进，负责第六章“奖助”
+- 编委：[@adsr](https://zjuers.com/rd?url=https://www.cc98.org/user/id/672666&mode=1)，负责第一章“常用信息”、第二章“入学”
+- 编委：[@outofemo](https://zjuers.com/rd?url=https://www.cc98.org/user/id/704214&mode=1)，负责第三章“军训”
+- 编委：[@辰幻](https://zjuers.com/rd?url=https://www.cc98.org/user/id/706425&mode=1)，负责第四章“学习”
+- 编委：[@阿阿阿阿柒](https://zjuers.com/rd?url=https://www.cc98.org/user/id/681380&mode=1)，负责第五章“选课”
+- 编委：[@minifull](https://zjuers.com/rd?url=https://www.cc98.org/user/id/667590&mode=1)，负责网页内容部署工作，负责第七章“生活”
+- 编委：[@3200101971](https://zjuers.com/rd?url=https://www.cc98.org/user/id/648740&mode=1)，负责第八章“园区”
+- 编委：[@Geniucker](https://zjuers.com/rd?url=https://www.cc98.org/user/id/701516&mode=1)，负责海宁国际校区专题
+- 编委：[@torsion](https://zjuers.com/rd?url=https://www.cc98.org/user/id/724572&mode=1)，负责港澳台生专题
+- 技术支持：[@zyz1z1](https://zjuers.com/rd?url=https://www.cc98.org/user/id/634438&mode=1)，负责zjuers网页站点建设
 
 ### 鸣谢
 

@@ -56,11 +56,11 @@
 在24年7月前，浙江大学有线网主要采用l2tp协议进行认证。信息技术中心提供了客户端，可点击[这里](https://zuits.zju.edu.cn/2017/0622/c12077a629723/page.htm)下载客户端并登录连接。信息技术中心提供的客户端由于未知问题常常导致windows的网络服务注册表损坏，且仅支持windows平台，存在一定局限性。MAC、Linux以及不想使用客户端的Windows用户可以通过自建 L2TP 连接校园网，服务器为 `lns.zju.edu.cn`，账号密码为激活时的账号密码。
 <!-- 具体流程可以在参考CC98网友的这篇文章 TODO。 -->
 
-自建L2TP连接可能会遇到一些环境适配上的问题，CC98的[MythLi](https://www.cc98.org/user/id/619826)开发了[ZJU Connect 多合一客户端](https://www.cc98.org/topic/5704061)，一键化自建L2TP连接，有同学们可以自行查看链接里的使用说明。
+自建L2TP连接可能会遇到一些环境适配上的问题，CC98的[MythLi](https://zjuers.com/rd?url=https://www.cc98.org/user/id/619826&mode=1)开发了[ZJU Connect 多合一客户端](https://zjuers.com/rd?url=https://www.cc98.org/topic/5704061&mode=1)，一键化自建L2TP连接，有同学们可以自行查看链接里的使用说明。
 
 ##### 通过路由器
 
-路由器一般通过 网页认证 或 L2TP 的方式连接校园网，但是由于路由器的种类繁多，这里不进行赘述。可自行上网搜索或去[cc98](https://www.cc98.org/)搜索。
+路由器一般通过 网页认证 或 L2TP 的方式连接校园网，但是由于路由器的种类繁多，这里不进行赘述。可自行上网搜索或去cc98搜索。
 
 ### 校外连接
 
@@ -83,13 +83,11 @@ RVPN 是浙大提供的另一种 VPN 服务，可以让我们在校外连接到�
 > - 安装驱动&后台常驻，占用资源，安装该公司自行签发的 CA，劫持系统 DLL，降低系统安全性
 > - 软件设计对系统侵入性强，卸载后仍有残留，容易造成未知的问题
 
-引自 [https://www.cc98.org/topic/5521873](https://www.cc98.org/topic/5521873)。其中安装根证书的行为从根本上破坏了 HTTPS 的安全性，这意味着其可能可以窃取你的网络数据。
+引自 [https://www.cc98.org/topic/5521873](https://zjuers.com/rd?url=https://www.cc98.org/topic/5521873&mode=1)。其中安装根证书的行为从根本上破坏了 HTTPS 的安全性，这意味着其可能可以窃取你的网络数据。
 
-所以，我们**强烈推荐**动手能力强的同学使用另一种方式连接 RVPN。如同前文所述，CC98的[MythLi](https://www.cc98.org/user/id/619826)开发了[ZJU Connect 多合一客户端](https://www.cc98.org/topic/5704061)，完美替代了深信服的EasyConnect软件。同学们可以自行查看链接里的使用说明。
+所以，我们**强烈推荐**动手能力强的同学使用另一种方式连接 RVPN。如同前文所述，CC98的[MythLi](https://zjuers.com/rd?url=https://www.cc98.org/user/id/619826&mode=1)开发了[ZJU Connect 多合一客户端](https://zjuers.com/rd?url=https://www.cc98.org/topic/5704061&mode=1)，完美替代了深信服的EasyConnect软件。同学们可以自行查看链接里的使用说明。
 
 需要注意的是，无论使用何种客户端，RVPN对内网的连接都是受限的，不能也不允许用于BT分享，出于安全考虑ssh的22端口也被封禁。
-
-
 
 ## 浙大邮箱
 
@@ -105,7 +103,7 @@ RVPN 是浙大提供的另一种 VPN 服务，可以让我们在校外连接到�
 
 Adobe系列软件并不需要在正版软件平台上下载，可以直接访问[Adobe官网](https://www.adobe.com/cn/#)，点击登录，用户名输入 浙江大学@zju.edu.cn，即可跳转到浙江大学统一身份认证， 认证后下载即可。
 
-更详细操作流程与问题指南可参考正版软件平台的[操作文档](https://software.zju.edu.cn/index.html)，遇到问题可以加入信息技术中心的Adobe技术服务QQ群[822271612](https://jq.qq.com/?_wv=1027&k=5Tlo6hn)
+更详细操作流程与问题指南可参考正版软件平台的[操作文档](https://zjuers.com/rd?url=https://software.zju.edu.cn/index.html&mode=1)，遇到问题可以加入信息技术中心的Adobe技术服务QQ群[822271612](https://jq.qq.com/?_wv=1027&k=5Tlo6hn)
 
 ### MATLAB软件
 
@@ -117,11 +115,11 @@ MATLAB系列软件需要先使用浙大邮箱注册**MathWorks**账号，并关�
 
 ![img](../assets/install1.webp)
 
-学校提供的正版Office与windows采用KMS模式进行激活，每次激活有效期180天，运行平台提供的GP客户端即可自动续期。市面上的笔记本一般都已预装了windows家庭版，无需使用正版软件平台激活，如果有升级到专业版的需求可用[正版软件平台工具](http://ms.zju.edu.cn/help/winconversion)进行升级激活。
+学校提供的正版Office与windows采用KMS模式进行激活，每次激活有效期180天，运行平台提供的GP客户端即可自动续期。市面上的笔记本一般都已预装了windows家庭版，无需使用正版软件平台激活，如果有升级到专业版的需求可用[正版软件平台工具](https://zjuers.com/rd?url=http://ms.zju.edu.cn/help/winconversion&mode=1)进行升级激活。
 
 需要注意的是，正版软件平台上的Office系列软件区分32位与64位程序，64位操作系统兼容32位程序，但目前市面上几乎所有笔记本预装64位系统，故选择64位软件下载即可。
 
-更多操作流程与问题解答可参考[正版软件平台帮助](http://ms.zju.edu.cn/help/client)或拨打微软产品服务支持热线 4008185550-1-8
+更多操作流程与问题解答可参考[正版软件平台帮助](https://zjuers.com/rd?url=http://ms.zju.edu.cn/help/client&mode=1)或拨打微软产品服务支持热线 4008185550-1-8
 
 ### 其他
 
@@ -129,4 +127,4 @@ MATLAB系列软件需要先使用浙大邮箱注册**MathWorks**账号，并关�
 
 ## ZJU 镜像站
 
-[浙江大学开源软件镜像站](https://mirror.zju.edu.cn/)由[浙江大学超算队（ZJUSCT）](https://www.zjusct.io/)建设与维护，[浙江大学信息技术中心](https://zuits.zju.edu.cn/)提供设备支持，提供全面的各类项目源镜像，包含  PostgreSQL，Ubuntu ，PyPi等。有需要的同学可根据自己的开发环境，进行相应配置，享受高速内网带宽。
+[浙江大学开源软件镜像站](https://mirror.zju.edu.cn/)由[浙江大学超算队（ZJUSCT）](https://www.zjusct.io/)建设与维护，[浙江大学信息技术中心](https://zuits.zju.edu.cn/)提供设备支持，提供全面的各类项目源镜像，包含PostgreSQL，Ubuntu ，PyPi等。有需要的同学可根据自己的开发环境，进行相应配置，享受高速内网带宽。
