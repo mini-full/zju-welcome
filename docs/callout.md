@@ -22,11 +22,11 @@
 
 ### 竺可桢学院
 
-竺院实行选拔（人称竺考）的平台有混合班、新农科实验班（本博贯通）以及求是科学班，下附**2023**年招生简章链接。
+竺院实行选拔（人称竺考）的平台有混合班、新农科实验班（本博贯通）以及求是科学班，下附**2024**年招生简章链接。
 
-- [浙江大学竺可桢学院混合班2023年招生简章](https://mp.weixin.qq.com/s/c94zTTk9-qhte9uAqjeWpw)
-- [浙江大学竺可桢学院新农科实验班（本博贯通）2023年招生简章](https://mp.weixin.qq.com/s/2x6v2yMEvz-6cUpCnHvgSQ)
-- [浙江大学竺可桢学院求是科学班2023年招生简章](https://mp.weixin.qq.com/s/H_YmqMySKHf59aX9xzsKzw)
+- [浙江大学竺可桢学院混合班2024年招生简章](https://mp.weixin.qq.com/s/YQ0ylue3vxEn5ZnUBAjZDg)
+- [浙江大学竺可桢学院新农科实验班（本博贯通）2024年招生简章](https://mp.weixin.qq.com/s/1sPgTx8n36oUAwsz0mtz1g)
+- [浙江大学竺可桢学院求是科学班2024年招生简章](https://mp.weixin.qq.com/s/o5p5EBUZUZkEsC-yhXMEiQ)
 
 ### 其他特色培养项目
 
