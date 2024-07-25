@@ -13,7 +13,7 @@
 - Tutorial/Discussion: 讨论课
 - Worksheet: 讨论课上小组合作的作业
 - DDL: Deadline，截止日期
-- 打卡: 体育打卡，指每个学期要跑42次的步，男生一次3km女生2km(具体打卡次数根据学期总教学周来确定)
+- 打卡: 体育打卡，指每个学期要跑42次的步，男生一次3km女生2km（具体打卡次数根据学期总教学周来确定）
 
 - LTE: Lecture Theatre East，东讲堂
 - LTW: Lecture Theatre West，西讲堂
