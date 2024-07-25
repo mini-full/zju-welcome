@@ -10,7 +10,7 @@
 
 ### Lazuli -浙江大学教务系统增强插件
 
-[Lazuli](https://www.cc98.org/topic/5821806)由CC98论坛用户[@adsr](https://www.cc98.org/user/id/672666)开发，安装指南详见其[文档与安装指南](https://www.cc98.org/topic/5821806)。
+[Lazuli](https://zjuers.com/rd?url=https://www.cc98.org/topic/5821806&mode=1)由CC98论坛用户[@adsr](https://zjuers.com/rd?url=https://www.cc98.org/user/id/672666&mode=1)开发，安装指南详见其[文档与安装指南](https://zjuers.com/rd?url=https://www.cc98.org/topic/5821806&mode=1)。
 
 其中功能包括査老师数据插入、自动下拉、课程高亮、选课难度提示，极大地优化教务系统的使用体验。
 
@@ -24,7 +24,7 @@
 
 ### 学校网站体验增强脚本
 
-[脚本](https://www.cc98.org/topic/5439617)由CC98论坛用户[@du33169](https://www.cc98.org/user/id/623451)开发，这里是其[文档和安装指南](http://zjuwebx.pages.zjusct.io/#/)。
+[脚本](https://zjuers.com/rd?url=https://www.cc98.org/topic/5439617&mode=1)由CC98论坛用户[@du33169](https://zjuers.com/rd?url=https://www.cc98.org/user/id/623451&mode=1)开发，这里是其[文档和安装指南](http://zjuwebx.pages.zjusct.io/#/)。
 
 这个脚本同时也改善了CC98论坛、学在浙大等的使用体验。
 

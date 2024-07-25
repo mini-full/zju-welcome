@@ -4,7 +4,7 @@
 
 ## 自习场所
 
-除了宿舍以外，还有很多公共空间可以用于自习。开放的自习教室可以在[启真在线平台](https://qzonline.zju.edu.cn/)和[教室资源管理平台](http://jxzygl.zju.edu.cn/zypt/teacher/classThings)上查询，还可以实时查看占座率。
+除了宿舍以外，还有很多公共空间可以用于自习。开放的自习教室可以在[启真在线平台](https://qzonline.zju.edu.cn/)和[教室资源管理平台](https://zjuers.com/rd?url=http://jxzygl.zju.edu.cn/zypt/teacher/classThings&mode=1)上查询，还可以实时查看占座率。
 
 自习教室平时在晚上22：30梁祝歌声响起后关闭，考试周期间关闭时间会推迟。
 
