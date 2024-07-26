@@ -74,7 +74,7 @@
 
 #### 团组织关系转接
 
-如果是团员需要转接团组织关系，这个流程每年可能随着团建系统更新发生变化，这里提供云峰学院分团委学生骨干中心撰写的[团组织关系转接-新生转入指南](https://yunfengzzb.yuque.com/org-wiki-yunfengzzb-bayp1q/yc4fea/lcgdcgm2w1ypw2ks?singleDoc#)作为参考。
+如果是团员需要转接团组织关系，这个流程每年可能随着团建系统更新发生变化，这里提供云峰学园分团委学生骨干中心撰写的[团组织关系转接-新生转入指南](https://yunfengzzb.yuque.com/org-wiki-yunfengzzb-bayp1q/yc4fea/lcgdcgm2w1ypw2ks?singleDoc#)作为参考。
 
 入学后，辅导员会通知相关事宜。以上文件是云峰学园2023年提供的指南，其他学园和竺院一般与此类似，但也可能略有不同，具体以届时辅导员的通知为准。
 
