@@ -1,10 +1,10 @@
-site_name: 浙江大学本科新生指引
+site_name: 2024年浙江大学本科新生指引
 site_author: mini-full
 site_description: 浙江大学本科生新生指引为浙江大学CC98论坛新生宝典版面编撰的新生入学指南。
 repo_name: zju-welcome
 repo_url: https://github.com/mini-full/zju-welcome/
 
-copyright: Copyright &copy; 2023-present <a href="https://github.com/mini-full" target="_blank" rel="noopener noreferrer">minifull</a>
+copyright: Copyright &copy; 2023-present <a href="https://github.com/mini-full/zju-welcome/" target="_blank" rel="noopener noreferrer">新生指引编委会</a>
 
 
 nav:
@@ -12,6 +12,7 @@ nav:
     - 首页: "index.md"
     - 重要提示: "callout.md"
     - 前言: "preface.md"
+    - 从零开始激活通行证: "network_detailed.md"
   - 常用信息:
     - 浙大校历: "basics/school_calendar.md"
     - 校园地图: "basics/school_map.md"
@@ -29,7 +30,7 @@ nav:
       - 公众号和小程序: "basics/channels.md"
       - 软件使用: "basics/software.md"
     - 特色黑话: "basics/slang.md"
-  - 入学:
+  - 报到:
     - 注册缴费: "registration/fee.md"
     - 线上准备: "registration/preparations_online.md"
     - 物品准备: "registration/items_to_take.md"
@@ -37,6 +38,7 @@ nav:
     - 报到流程: "registration/procedure.md"
     - 始业教育: "registration/initial_edu.md"
     - 新生防骗: "registration/secure.md"
+    - 校园套餐电话卡: "registration/cellphone-plans.md"
   - 军训:
     - 作息时间: "military_training/time.md"
     - 组织架构: "military_training/structure.md"
@@ -69,17 +71,20 @@ nav:
     - 校园区域: "life/campus.md"
     - 寝室园区: "life/dorm.md"
     - 收寄服务: "life/post.md"
-    - 校园网指南: "life/network.md"
+    - 网络服务: "life/network.md"
     - 饮食消费: "life/canteen.md"
     - 校园交通: "life/traffic.md"
-    - 学生组织与社团: "life/extracurricular.md"
+    - 就医服务: "life/medical-treatment.md"
+    - 图书馆介绍: "life/library.md"
     - 运动场馆与艺术中心: "life/sports.md"
-    - 自习空间查询&会议面试场地借用: "life/public_resources.md"
+    - 场地借用与自习空间: "life/public_resources.md"
+    - 学生组织与社团: "life/extracurricular.md"
     - 杭城掠影: "life/hangzhou.md"
-    - 校园卡电话套餐: "life/cellphone-plans.md"
   - 园区:
-    - 蓝田学园: "dorms/lantian.md"
+    - 求是学院: "dorms/qiushicollege.md"
+    - 丹阳青溪学园: "dorms/danqing.md"
     - 紫云碧峰学园: "dorms/yunfeng.md"
+    - 蓝田学园: "dorms/lantian.md"
     - 竺可桢学院: "dorms/ckc.md"
 
   
@@ -102,7 +107,6 @@ nav:
     - 评奖评优: "haining/scholarship.md"
     - 校园生活: 
       - 吃住: "haining/life/canteen_dorm.md"
-      - 学生活动: "haining/life/extracurricular.md"
       - 社会实践: "haining/life/practice.md"
 
   - 港澳台生专题:
@@ -172,10 +176,18 @@ plugins:
         - en
         - ja
       separator: '[\s\u200b\-]'
+  - privacy
 
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - assets/js/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 
 extra:
@@ -183,7 +195,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/mini-full/zju-welcome
     - icon: material/forum
-      link: https://www.cc98.org/topic/5672880
+      link: https://www.cc98.org/topic/5947195/
     - icon: fontawesome/solid/paper-plane
       link: mailto:kaixuanwang@zju.edu.cn
     - icon: simple/githubpages
