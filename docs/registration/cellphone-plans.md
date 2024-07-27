@@ -24,7 +24,7 @@
 
 ### 2024年浙江大学专属校园套餐汇总
 
-![套餐汇总](../assets/phoneplans20240725v1.png)
+![套餐汇总](../assets/phoneplans20240728v1.png)
 
 ![套餐汇总](../assets/phoneplansqrcode.png)
 
