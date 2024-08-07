@@ -4,13 +4,106 @@
 
 选课平台：[本科教学管理信息服务平台](http://zdbk.zju.edu.cn/)
 
-选课通知：暂未发布，待更新
+选课通知：
 
-**以下为2023年选课安排，仅供参考。**
+<div align="center">
+	<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="899" style="width: 449.4pt;border-collapse: collapse;border: none;">
+		<tbody>
+			<tr>
+				<td width="301" style="border: solid windowtext 1.0pt;">
+					<p class="MsoNormal" align="center" style="text-align: center;">
+						<b><span style="font-size: 15.0pt;line-height: 150.0%;"><span style="font-family: FangSong_GB2312;font-size: 18.0px;">选课轮次</span><span></span></span></b> 
+					</p>
+				</td>
+				<td width="199" style="border: solid windowtext 1.0pt;">
+					<p class="MsoNormal" align="center" style="text-align: center;">
+						<b><span style="font-size: 15.0pt;line-height: 150.0%;"><span style="font-family: FangSong_GB2312;font-size: 18.0px;">开始时间</span><span></span></span></b> 
+					</p>
+				</td>
+				<td width="201" style="border: solid windowtext 1.0pt;">
+					<p class="MsoNormal" align="center" style="text-align: center;">
+						<b><span style="font-size: 15.0pt;line-height: 150.0%;"><span style="font-family: FangSong_GB2312;font-size: 18.0px;">结束时间</span><span></span></span></b> 
+					</p>
+				</td>
+				<td width="199" style="border: solid windowtext 1.0pt;">
+					<p class="MsoNormal" align="center" style="text-align: center;">
+						<b><span style="font-size: 15.0pt;line-height: 150.0%;"><span style="font-family: FangSong_GB2312;font-size: 18.0px;">结果查看</span><span></span></span></b> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="301" style="border: solid windowtext 1.0pt;">
+					<p class="MsoNormal" align="center" style="text-align: center;">
+						<span style="font-size: 12.0pt;line-height: 150.0%;"><span style="font-family: FangSong_GB2312;">第一轮</span><span></span></span> 
+					</p>
+				</td>
+				<td width="199" style="border: solid windowtext 1.0pt;">
+					<p class="MsoNormal" align="center" style="text-align: center;">
+						<span style="font-size: 12.0pt;line-height: 150.0%;font-family: FangSong_GB2312;">8</span><span style="font-size: 12.0pt;line-height: 150.0%;"><span style="font-family: FangSong_GB2312;">月</span><span style="font-family: FangSong_GB2312;">21</span><span style="font-family: FangSong_GB2312;">日</span><span style="font-family: FangSong_GB2312;">9:00</span></span> 
+					</p>
+				</td>
+				<td width="201" style="border: solid windowtext 1.0pt;">
+					<p class="MsoNormal" align="center" style="text-align: center;">
+						<span style="font-size: 12.0pt;line-height: 150.0%;font-family: FangSong_GB2312;">8</span><span style="font-size: 12.0pt;line-height: 150.0%;"><span style="font-family: FangSong_GB2312;">月</span><span style="font-family: FangSong_GB2312;">23</span><span style="font-family: FangSong_GB2312;">日</span><span style="font-family: FangSong_GB2312;">17:00</span></span> 
+					</p>
+				</td>
+				<td width="199" style="border: solid windowtext 1.0pt;">
+					<p class="MsoNormal" align="center" style="text-align: center;">
+						<span style="font-size: 12.0pt;line-height: 150.0%;font-family: FangSong_GB2312;">8</span><span style="font-size: 12.0pt;line-height: 150.0%;"><span style="font-family: FangSong_GB2312;">月</span><span style="font-family: FangSong_GB2312;">26</span><span style="font-family: FangSong_GB2312;">日晚</span><span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="301" style="border: solid windowtext 1.0pt;">
+					<p class="MsoNormal" align="center" style="text-align: center;">
+						<span style="font-size: 12.0pt;line-height: 150.0%;"><span style="font-family: FangSong_GB2312;">第二轮</span><span></span></span> 
+					</p>
+				</td>
+				<td width="199" style="border: solid windowtext 1.0pt;">
+					<p class="MsoNormal" align="center" style="text-align: center;">
+						<span style="font-size: 12.0pt;line-height: 150.0%;font-family: FangSong_GB2312;">9</span><span style="font-size: 12.0pt;line-height: 150.0%;"><span style="font-family: FangSong_GB2312;">月</span><span style="font-family: FangSong_GB2312;">3</span><span style="font-family: FangSong_GB2312;">日</span><span style="font-family: FangSong_GB2312;">9:00</span></span> 
+					</p>
+				</td>
+				<td width="201" style="border: solid windowtext 1.0pt;">
+					<p class="MsoNormal" align="center" style="text-align: center;">
+						<span style="font-size: 12.0pt;line-height: 150.0%;font-family: FangSong_GB2312;">9</span><span style="font-size: 12.0pt;line-height: 150.0%;"><span style="font-family: FangSong_GB2312;">月</span><span style="font-family: FangSong_GB2312;">5</span><span style="font-family: FangSong_GB2312;">日</span><span style="font-family: FangSong_GB2312;">12:00</span></span> 
+					</p>
+				</td>
+				<td width="199" style="border: solid windowtext 1.0pt;">
+					<p class="MsoNormal" align="center" style="text-align: center;">
+						<span style="font-size: 12.0pt;line-height: 150.0%;font-family: FangSong_GB2312;">9</span><span style="font-size: 12.0pt;line-height: 150.0%;"><span style="font-family: FangSong_GB2312;">月</span><span style="font-family: FangSong_GB2312;">5</span><span style="font-family: FangSong_GB2312;">日晚</span><span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="301" style="border: solid windowtext 1.0pt;">
+					<p class="MsoNormal" align="center" style="text-align: center;">
+						<span style="font-size: 12.0pt;line-height: 150.0%;"><span style="font-family: FangSong_GB2312;">第三轮</span><span></span></span> 
+					</p>
+					<p class="MsoNormal" align="center" style="text-align: center;">
+						<span style="font-size: 12.0pt;line-height: 150.0%;"><span style="font-family: FangSong_GB2312;">（秋学期开学初）</span><span></span></span> 
+					</p>
+				</td>
+				<td width="598" colspan="3" rowspan="2" style="border: solid windowtext 1.0pt;">
+					<p class="MsoNormal" align="center" style="text-align: center;">
+						<span style="font-size: 12.0pt;line-height: 150.0%;"><span style="font-family: FangSong_GB2312;">另行通知</span><span></span></span> 
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td width="301" style="border: solid windowtext 1.0pt;">
+					<p class="MsoNormal" align="center" style="text-align: center;">
+						<span style="font-size: 12.0pt;line-height: 150.0%;"><span style="font-family: FangSong_GB2312;">第四轮</span><span></span></span> 
+					</p>
+					<p class="MsoNormal" align="center" style="text-align: center;">
+						<span style="font-size: 12.0pt;line-height: 150.0%;"><span style="font-family: FangSong_GB2312;">（冬学期开学初）</span><span></span></span> 
+					</p>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="895" style="width:597px;border:none;margin-left:7px;"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:1.0cm"><td width="215" style="width:143px;border:solid #000 1px;padding:0cm 7px 0cm 7px;height:1.0cm"><p class="MsoNormal" style="text-align:center;line-height:150%;mso-pagination:widow-orphan;layout-grid-mode:char;text-align:center;"><strong><span style="font-size:20px;line-height:150%;font-family:仿宋;">选课轮次</span></strong></p></td><td width="199" style="width:132px;border:solid #000 1px;border-left:none;mso-border-left-alt:solid #000 1px;padding:0cm 7px 0cm 7px;height:1.0cm"><p class="MsoNormal" style="text-align:center;line-height:150%;mso-pagination:widow-orphan;layout-grid-mode:char;text-align:center;"><strong><span style="font-size:20px;line-height:150%;font-family:仿宋;">开始时间</span></strong></p></td><td width="201" style="width:134px;border:solid #000 1px;border-left:none;mso-border-left-alt:solid #000 1px;padding:0cm 7px 0cm 7px;height:1.0cm"><p class="MsoNormal" style="text-align:center;line-height:150%;mso-pagination:widow-orphan;layout-grid-mode:char;text-align:center;"><strong><span style="font-size:20px;line-height:150%;font-family:仿宋;">结束时间</span></strong></p></td><td width="281" style="width:188px;border:solid #000 1px;border-left:none;mso-border-left-alt:solid #000 1px;padding:0cm 7px 0cm 7px;height:1.0cm"><p class="MsoNormal" style="text-align:center;line-height:150%;mso-pagination:widow-orphan;layout-grid-mode:char;text-align:center;"><strong><span style="font-size:20px;line-height:150%;font-family:仿宋;">备注</span></strong></p></td></tr><tr style="mso-yfti-irow:1;height:1.0cm"><td width="215" style="width:143px;border:solid #000 1px;border-top:none;mso-border-top-alt:solid #000 1px;padding:0cm 7px 0cm 7px;height:1.0cm"><p class="MsoNormal" style="text-align:center;line-height:150%;mso-pagination:widow-orphan;layout-grid-mode:char;text-align:center;"><span style="font-size:16px;line-height:150%;font-family:仿宋;">第一轮</span></p></td><td width="199" style="width:132px;border-top:none;border-left:none;border-bottom:solid #000 1px;border-right:solid #000 1px;mso-border-top-alt:solid #000 1px;mso-border-left-alt:solid #000 1px;padding:0cm 7px 0cm 7px;height:1.0cm"><p class="MsoNormal" style="text-align:center;line-height:150%;mso-pagination:widow-orphan;layout-grid-mode:char;text-align:center;"><span lang="EN-US" style="font-size:16px;line-height:150%;font-family:仿宋;">8</span><span style="font-size:16px;line-height:150%;font-family:仿宋;">月<span lang="EN-US">28</span>日<span lang="EN-US">09:00</span></span></p></td><td width="201" style="width:134px;border-top:none;border-left:none;border-bottom:solid #000 1px;border-right:solid #000 1px;mso-border-top-alt:solid #000 1px;mso-border-left-alt:solid #000 1px;padding:0cm 7px 0cm 7px;height:1.0cm"><p class="MsoNormal" style="text-align:center;line-height:150%;mso-pagination:widow-orphan;layout-grid-mode:char;text-align:center;"><span lang="EN-US" style="font-size:16px;line-height:150%;font-family:仿宋;">8</span><span style="font-size:16px;line-height:150%;font-family:仿宋;">月<span lang="EN-US">30</span>日<span lang="EN-US">17:00</span></span></p></td><td width="281" style="width:188px;border-top:none;border-left:none;border-bottom:solid #000 1px;border-right:solid #000 1px;mso-border-top-alt:solid #000 1px;mso-border-left-alt:solid #000 1px;padding:0cm 7px 0cm 7px;height:1.0cm"><p class="MsoNormal" style="text-align:center;line-height:150%;mso-pagination:widow-orphan;layout-grid-mode:char;text-align:center;"><span style="font-size:16px;line-height:150%;font-family:仿宋;">按优先级实行概率筛选</span></p></td></tr><tr style="mso-yfti-irow:2;height:1.0cm"><td width="215" style="width:143px;border:solid #000 1px;border-top:none;mso-border-top-alt:solid #000 1px;padding:0cm 7px 0cm 7px;height:1.0cm"><p class="MsoNormal" style="text-align:center;line-height:150%;mso-pagination:widow-orphan;layout-grid-mode:char;text-align:center;"><span style="font-size:16px;line-height:150%;font-family:仿宋;">第二轮</span></p></td><td width="199" style="width:132px;border-top:none;border-left:none;border-bottom:solid #000 1px;border-right:solid #000 1px;mso-border-top-alt:solid #000 1px;mso-border-left-alt:solid #000 1px;padding:0cm 7px 0cm 7px;height:1.0cm"><p class="MsoNormal" style="text-align:center;line-height:150%;mso-pagination:widow-orphan;layout-grid-mode:char;text-align:center;"><span lang="EN-US" style="font-size:16px;line-height:150%;font-family:仿宋;">9</span><span style="font-size:16px;line-height:150%;font-family:仿宋;">月<span lang="EN-US">12</span>日<span lang="EN-US">09:00</span></span></p></td><td width="201" style="width:134px;border-top:none;border-left:none;border-bottom:solid #000 1px;border-right:solid #000 1px;mso-border-top-alt:solid #000 1px;mso-border-left-alt:solid #000 1px;padding:0cm 7px 0cm 7px;height:1.0cm"><p class="MsoNormal" style="text-align:center;line-height:150%;mso-pagination:widow-orphan;layout-grid-mode:char;text-align:center;"><span lang="EN-US" style="font-size:16px;line-height:150%;font-family:仿宋;">9</span><span style="font-size:16px;line-height:150%;font-family:仿宋;">月<span lang="EN-US">14</span>日<span lang="EN-US">12:00</span></span></p></td><td width="281" style="width:188px;border-top:none;border-left:none;border-bottom:solid #000 1px;border-right:solid #000 1px;mso-border-top-alt:solid #000 1px;mso-border-left-alt:solid #000 1px;padding:0cm 7px 0cm 7px;height:1.0cm"><p class="MsoNormal" style="text-align:center;line-height:150%;mso-pagination:widow-orphan;layout-grid-mode:char;text-align:center;"><span style="font-size:16px;line-height:150%;font-family:仿宋;">按优先级实行概率筛选</span></p></td></tr><tr style="mso-yfti-irow:3;height:2.0cm"><td width="215" style="width:143px;border:solid #000 1px;border-top:none;mso-border-top-alt:solid #000 1px;padding:0cm 7px 0cm 7px;height:2.0cm"><p class="MsoNormal" style="text-align:center;line-height:150%;mso-pagination:widow-orphan;layout-grid-mode:char;text-align:center;"><span style="font-size:16px;line-height:150%;font-family:仿宋;">第三轮</span></p><p class="MsoNormal" style="text-align:center;line-height:150%;mso-pagination:widow-orphan;layout-grid-mode:char;text-align:center;"><span style="font-size:16px;line-height:150%;font-family:仿宋;">（秋学期开学初）</span></p></td><td width="399" colspan="2" rowspan="2" style="width:266px;border-top:none;border-left:none;border-bottom:solid #000 1px;border-right:solid #000 1px;mso-border-top-alt:solid #000 1px;mso-border-left-alt:solid #000 1px;padding:0cm 7px 0cm 7px;height:2.0cm"><p class="MsoNormal" style="text-align:center;line-height:150%;mso-pagination:widow-orphan;layout-grid-mode:char;text-align:center;"><span style="font-size:16px;line-height:150%;font-family:仿宋;">另行通知</span></p></td><td width="281" style="width:188px;border-top:none;border-left:none;border-bottom:solid #000 1px;border-right:solid #000 1px;mso-border-top-alt:solid #000 1px;mso-border-left-alt:solid #000 1px;padding:0cm 7px 0cm 7px;height:2.0cm"><p class="MsoNormal" style="text-align:center;line-height:150%;mso-pagination:widow-orphan;layout-grid-mode:char;text-align:center;"><span style="font-size:16px;line-height:150%;font-family:仿宋;">增加循环补充教学班及特殊教学班</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:1.0cm"><td width="215" style="width:143px;border:solid #000 1px;border-top:none;mso-border-top-alt:solid #000 1px;padding:0cm 7px 0cm 7px;height:1.0cm"><p class="MsoNormal" style="text-align:center;line-height:150%;mso-pagination:widow-orphan;layout-grid-mode:char;text-align:center;"><span style="font-size:16px;line-height:150%;font-family:仿宋;">第四轮</span></p><p class="MsoNormal" style="text-align:center;line-height:150%;mso-pagination:widow-orphan;layout-grid-mode:char;text-align:center;"><span style="font-size:16px;line-height:150%;font-family:仿宋;">（冬学期开学初）</span></p></td><td width="281" style="width:188px;border-top:none;border-left:none;border-bottom:solid #000 1px;border-right:solid #000 1px;mso-border-top-alt:solid #000 1px;mso-border-left-alt:solid #000 1px;padding:0cm 7px 0cm 7px;height:1.0cm"><p class="MsoNormal" style="text-align:center;line-height:150%;mso-pagination:widow-orphan;layout-grid-mode:char;text-align:center;"><span style="font-size:16px;line-height:150%;font-family:仿宋;">仅限冬学期课程</span></p></td></tr></tbody></table>
-
-
-[关于2023级本科新生第一学年秋冬学期选课的通知](https://zjuers.com/rd?url=http://bksy.zju.edu.cn/2023/0805/c28418a2787833/page.htm&mode=1)已经发布在本科生院官网。
+[关于2024级本科新生第一学年秋冬学期选课的通知](http://zdbk.zju.edu.cn/jwglxt/xtgl/xwck_ckLoginNews.html?xwbh=1EFB84AA6561804BE0630BA6CA0ACA68&doType=save)已经发布在本科生院官网。
 
 **学生修读体育Ⅰ、Ⅱ需同时选专项技能课（如游泳、定向越野等）及身体素质课（位于体育课程列表最下方）。**
