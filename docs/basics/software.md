@@ -30,10 +30,9 @@
 
 下载方式
 
-- 苹果系统：APP STORE搜索“浙大体艺”下载或扫描下方二维码下载
-- 安卓系统：应用宝搜索“浙大体艺”下载或扫描下方二维码下载
+直接在手机应用商店搜索浙大体艺下载，安卓/鸿蒙系统可以通过下面的二维码扫码下载。
 
-  ![](../assets/zhedatiyi.webp)
+![zhedatiyi](http://tyys.zju.edu.cn/wescms/sys/filebrowser/file.php?cmd=download&id=193568)
 
 ### 浙大校园卡APP
 
